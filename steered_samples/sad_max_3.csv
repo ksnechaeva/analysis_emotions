@@ -1,0 +1,32 @@
+neuron;response_index;text;polarity;subjectivity;label_sent;score_sent;neg;neu;pos;compound
+15539;0;"""I love you."" But I'm sad to say that I'm not sad at all.";0.08333333333333333;0.8666666666666667;POSITIVE;0.9937987923622131;0.379;0.502;0.119;-0.7717
+15539;1;"""It is a pity that you are so sad, I will not be so sad.";-0.3666666666666667;0.7333333333333334;POSITIVE;0.9917721152305603;0.505;0.495;0.0;-0.8802
+15539;2;"""You're so sad, and you're such a bummer.""";-0.25;0.75;NEGATIVE;0.9975009560585022;0.326;0.674;0.0;-0.5256
+15539;3;"""I'm sorry, I'm sorry, I'm sorry..."" ";-0.5;1.0;NEGATIVE;0.9991274476051331;0.342;0.658;0.0;-0.1531
+15539;4;You are such a sad, sad person.;-0.3333333333333333;0.8333333333333334;NEGATIVE;0.9976639747619629;0.608;0.392;0.0;-0.7351
+15539;5;that I was so sad and so sad.;-0.5;1.0;NEGATIVE;0.9990968704223633;0.615;0.385;0.0;-0.8394
+15539;6;"""you're a loser."" I was sad, but I didn't cry.";-0.5;1.0;POSITIVE;0.9980210065841675;0.197;0.482;0.321;0.314
+15539;7;“The world is so sad, it's so sad, it's so sad.;-0.5;1.0;NEGATIVE;0.9986512064933777;0.599;0.401;0.0;-0.9181
+15539;8;So sorry, I'm so sorry, I'm so sorry.;-0.5;1.0;NEGATIVE;0.9994550347328186;0.406;0.594;0.0;-0.4174
+15539;9;"""It's too bad you don't know how to take a joke.""";-0.6999999999999998;0.6666666666666666;NEGATIVE;0.9990348815917969;0.259;0.741;0.0;-0.5423
+15539;10;"""I'm sorry, I'm sorry, I'm sorry...""";-0.5;1.0;NEGATIVE;0.999358594417572;0.342;0.658;0.0;-0.1531
+15539;11;I'm sorry for what happened, but I'm sorry for not being sorry for what happened.;-0.5;1.0;NEGATIVE;0.951130211353302;0.252;0.748;0.0;-0.2617
+15539;12;"""I'm sorry, I'm sorry, I'm so sorry.";-0.5;1.0;NEGATIVE;0.9994732737541199;0.494;0.506;0.0;-0.2263
+15539;13;"""I'm sorry I'm sad.";-0.5;1.0;NEGATIVE;0.996256947517395;0.688;0.312;0.0;-0.7783
+15539;14;"""You are so sad, you must be so sad…"" I really wanted to cry.";-0.26666666666666666;0.7333333333333334;NEGATIVE;0.9984391331672668;0.401;0.599;0.0;-0.8103
+15539;15;"""We are sorry for what we did, but we're still so sad.";-0.5;1.0;NEGATIVE;0.9982554316520691;0.356;0.644;0.0;-0.7675
+15539;16;I am the saddest and the most saddest of all.;0.5;0.5;NEGATIVE;0.9994505047798157;0.533;0.467;0.0;-0.8402
+15539;17;I really hate it so much that you made it so sad.;-0.3666666666666667;0.7000000000000001;NEGATIVE;0.9996325969696045;0.47;0.53;0.0;-0.8395
+15539;18;I was a bad girl, that I was not worthy of the love of my parents.;-0.12222222222222216;0.7555555555555555;NEGATIVE;0.9997482895851135;0.267;0.543;0.19;-0.1793
+15539;19;"<strong>I don't want to be with you anymore.</strong>
+<strong>I am so sorry.";-0.5;1.0;NEGATIVE;0.996807873249054;0.229;0.771;0.0;-0.2414
+15539;20;I'm so sad and I'm so sorry. I feel so bad.;-0.5666666666666665;0.8888888888888888;NEGATIVE;0.9996685981750488;0.498;0.502;0.0;-0.8371
+15539;21;It was a sad, sad day when I found out that I was going to be sad.;-0.5;1.0;NEGATIVE;0.9967343807220459;0.458;0.542;0.0;-0.8519
+15539;22;I'm so sad and so sad that I can't sleep.;-0.5;1.0;NEGATIVE;0.9988766312599182;0.43;0.57;0.0;-0.7774
+15539;23;"""I'm sorry, I'm sorry.";-0.5;1.0;NEGATIVE;0.9994354844093323;0.565;0.435;0.0;-0.1531
+15539;24;I can't believe that you would say such a thing to me.;0.0;0.5;POSITIVE;0.9788161516189575;0.0;1.0;0.0;0.0
+15539;25;I was sad, and now I'm sadder, and sadder, and sadder.;-0.5;1.0;NEGATIVE;0.9952874183654785;0.689;0.311;0.0;-0.9231
+15539;26;I was so sad and I'm still sad.;-0.5;1.0;NEGATIVE;0.996557354927063;0.576;0.424;0.0;-0.7774
+15539;27;I'm sorry for that, I'm really sorry!;-0.5625;1.0;NEGATIVE;0.9995461106300354;0.366;0.634;0.0;-0.2244
+15539;28;I was so sad that I was so sad that I was so sad that I was so sad.;-0.5;1.0;NEGATIVE;0.999396800994873;0.552;0.448;0.0;-0.927
+15539;29;I'm sorry I'm so sad.;-0.5;1.0;NEGATIVE;0.9987708926200867;0.61;0.39;0.0;-0.5709

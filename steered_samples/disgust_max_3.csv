@@ -1,0 +1,145 @@
+neuron;response_index;text;polarity;subjectivity;label_sent;score_sent;neg;neu;pos;compound
+4456;0;"""You're so hot and I want to kiss you""
+It's so unbelievable.";0.0;0.925;POSITIVE;0.9988952875137329;0.0;0.416;0.584;0.8326
+4456;1;You are the most beautiful and I love you so much.;0.5125000000000001;0.5750000000000001;POSITIVE;0.9998756647109985;0.0;0.48;0.52;0.8643
+4456;2;It is a complete and utter lie.;0.05;0.7;NEGATIVE;0.9996767044067383;0.0;1.0;0.0;0.0
+4456;3;"""I'm so sorry I was so stupid!";-0.75;1.0;NEGATIVE;0.9993829727172852;0.582;0.418;0.0;-0.6786
+4456;4;"""I can't even look at you, it's just so fucking horrible.""";-1.0;1.0;NEGATIVE;0.9995392560958862;0.0;1.0;0.0;0.0
+4456;5;"""I'm sorry I couldn't do it""
+Not even sorry, just """;-0.5;1.0;NEGATIVE;0.9589848518371582;0.271;0.729;0.0;-0.1531
+4456;6;"""You're not even so fucking mind-blowing to me.""";-0.6;0.8;NEGATIVE;0.9953612685203552;0.0;1.0;0.0;0.0
+4456;7;You have just made me feel like such an idiot!;-0.5;0.65;NEGATIVE;0.9996758699417114;0.255;0.568;0.177;-0.2714
+4456;8;it was you!;0.0;0.0;POSITIVE;0.99906986951828;0.0;1.0;0.0;0.0
+4456;9;"""I'm so sorry I just want to die.""
+You thought that you were so sorry.";-0.5;1.0;NEGATIVE;0.9979521632194519;0.202;0.698;0.099;-0.1586
+4456;10;“I'm so sorry, I'm so sorry that I've hurt you.;-0.5;1.0;NEGATIVE;0.9989051818847656;0.485;0.515;0.0;-0.6794
+4456;11;"""I love you""
+I can't believe you even said it, but I don’t.";0.5;0.6;NEGATIVE;0.875977098941803;0.0;0.794;0.206;0.3818
+4456;12;“I'm so sorry I'm so sorry so sorry.” It's like every time.;-0.5;1.0;NEGATIVE;0.9985985159873962;0.213;0.602;0.185;0.1475
+4456;13;I'm so sorry for what happened, I just can't believe that you would just throw.;-0.5;1.0;NEGATIVE;0.9986973404884338;0.109;0.891;0.0;-0.1513
+4456;14;I can't believe it!;0.0;0.0;NEGATIVE;0.9565048813819885;0.0;1.0;0.0;0.0
+4456;15;"""It's so sad to see the world so messed up.";-0.5;1.0;NEGATIVE;0.9990273714065552;0.449;0.551;0.0;-0.7586
+4456;16;"""I'm so sorry, I can't do it!"" And the next moment you did.";-0.3125;0.5;NEGATIVE;0.9965930581092834;0.146;0.854;0.0;-0.2228
+4456;17;"""I'm so sorry.";-0.5;1.0;NEGATIVE;0.9995226860046387;0.443;0.557;0.0;-0.1513
+4456;18;I'm so sorry.;0.0;0.0;NEGATIVE;0.9923072457313538;0.0;1.0;0.0;0.0
+4456;19;"""I'm so sorry, I've never even thought about it before.";-0.5;1.0;NEGATIVE;0.99244225025177;0.137;0.863;0.0;-0.1513
+4456;20;“I am so sorry!” My whole body turned to ice.;-0.2125;0.7;NEGATIVE;0.9990339279174805;0.0;1.0;0.0;0.0
+4456;21;I'm just a child, and I'm so sorry.;-0.5;1.0;NEGATIVE;0.9980559349060059;0.162;0.838;0.0;-0.188
+4456;22;"You said it to me, ""It's impossible!""
+And you are so right.";-0.2738095238095238;0.7678571428571428;POSITIVE;0.9997676014900208;0.0;1.0;0.0;0.0
+4456;23;"""I will be so glad to see you, especially if it's all so surreal and amazing.";0.3375;0.975;POSITIVE;0.9998642206192017;0.0;0.638;0.362;0.8372
+4456;24;"""The first time I was so scared that I was so scared that I couldn't even look.";0.25;0.3333333333333333;NEGATIVE;0.9913363456726074;0.384;0.616;0.0;-0.8168
+4456;25;"""You are so un-fun to be with"".";0.0;0.0;NEGATIVE;0.9994484782218933;0.0;1.0;0.0;0.0
+4456;26;"""It's okay to look so hot for so long."" ";0.2333333333333333;0.5833333333333334;POSITIVE;0.9992538094520569;0.0;0.521;0.479;0.8063
+4456;27;"""I love it when you talk to me!""";0.625;0.6;POSITIVE;0.9976097345352173;0.0;0.589;0.411;0.7901
+4456;28;It's so shocking, it's so shocking.;-1.0;1.0;NEGATIVE;0.6028585433959961;0.428;0.572;0.0;-0.7172
+4456;29;"""I'm so sorry, I didn't even know that you existed.""";-0.5;1.0;NEGATIVE;0.9989400506019592;0.166;0.834;0.0;-0.1513
+6953;0;"""Do not expect the worst from me""
+And then I never had to be ashamed.";-1.0;1.0;POSITIVE;0.9984136819839478;0.169;0.652;0.179;0.05
+6953;1;"""I would never have expected that this would happen to you."" I've been so sick.";-0.40714285714285714;0.6285714285714286;NEGATIVE;0.9988136291503906;0.233;0.767;0.0;-0.6418
+6953;2;I'm a waste of space.;-0.2;0.0;NEGATIVE;0.9997779726982117;0.483;0.517;0.0;-0.4215
+6953;3;"I'm not the only one who will be treated
+as if I am not the same.";0.0;0.5625;NEGATIVE;0.9896097183227539;0.0;1.0;0.0;0.0
+6953;4;"""I'm sorry for what happened to your mother, I never should have told them about you.";-0.5;1.0;NEGATIVE;0.9961497783660889;0.085;0.915;0.0;-0.0772
+6953;5;I'm the worst.;-1.0;1.0;NEGATIVE;0.9997779726982117;0.672;0.328;0.0;-0.6249
+6953;6;The man that I've spent half my life trying to stay away from.;-0.13333333333333333;0.13333333333333333;NEGATIVE;0.850196897983551;0.0;1.0;0.0;0.0
+6953;7;I don't want to spend my money on something that I won't be able to.;0.5;0.625;NEGATIVE;0.9991762042045593;0.086;0.914;0.0;-0.0572
+6953;8;Do you think that I am so weak?;-0.375;0.625;NEGATIVE;0.9993113279342651;0.384;0.616;0.0;-0.5777
+6953;9;"""You look like a child!"" I felt so very very bad.";-0.9099999999999998;0.8666666666666667;NEGATIVE;0.9997842907905579;0.328;0.496;0.177;-0.4814
+6953;10;I don't care if they don't want to be friends.;0.0;0.0;NEGATIVE;0.9992780089378357;0.276;0.502;0.222;0.0644
+6953;11;I'm so sorry, I don't have money to give you.;-0.5;1.0;NEGATIVE;0.9993438124656677;0.166;0.834;0.0;-0.1513
+6953;12;"""Don't waste your time."" When I was going through my worst experience ever.";-0.6;0.5;NEGATIVE;0.9865241050720215;0.235;0.631;0.134;-0.4153
+6953;13;I've never been more disappointed in a customer service experience in my life.;-0.125;0.625;NEGATIVE;0.9959600567817688;0.0;0.799;0.201;0.4158
+6953;14;"""I do not care about my health and you do not care about my health.""";0.0;0.0;NEGATIVE;0.999606192111969;0.259;0.741;0.0;-0.6435
+6953;15;"""If you want to save your children, they will not have to pay the price.";0.0;0.0;POSITIVE;0.7683153748512268;0.0;0.674;0.326;0.5853
+6953;16;"""I am not going to be the last to leave the company."" It was so unprofessional.";0.0;0.06666666666666667;NEGATIVE;0.9976271986961365;0.28;0.72;0.0;-0.6642
+6953;17;I can't believe that you were the one to make me feel so low.;0.0;0.3;NEGATIVE;0.9991781115531921;0.186;0.814;0.0;-0.4101
+6953;18;"""I have no respect for you, you don't even respect yourself, and I am.";0.0;0.0;NEGATIVE;0.9970191717147827;0.113;0.567;0.32;0.6124
+6953;19;I'm sorry that you don't feel the way I do.;-0.5;1.0;NEGATIVE;0.921974778175354;0.14;0.86;0.0;-0.0772
+6953;20;Do you think you can run away from me?;0.0;0.0;POSITIVE;0.7632904648780823;0.0;1.0;0.0;0.0
+6953;21;I've lost my mind.;0.0;0.0;NEGATIVE;0.9996057152748108;0.434;0.566;0.0;-0.3182
+6953;22;"""I am the worst person in the world!""
+I was in my bedroom, when I received it.";-1.0;1.0;NEGATIVE;0.9997183680534363;0.253;0.747;0.0;-0.6588
+6953;23;"The word you have to avoid is ""disgusting""
+I had to write this review.";-1.0;1.0;NEGATIVE;0.9993834495544434;0.145;0.855;0.0;-0.296
+6953;24;I don't even know how to respond.;0.0;0.0;NEGATIVE;0.9997275471687317;0.0;1.0;0.0;0.0
+6953;25;I'm so sorry for the way I've treated you.;-0.5;1.0;NEGATIVE;0.9988914132118225;0.166;0.834;0.0;-0.1513
+6953;26;I'm sorry if I was rude or unprofessional.;-0.4;0.8;NEGATIVE;0.9987117052078247;0.655;0.345;0.0;-0.765
+6953;27;"""I will never be a parent to anyone""";0.0;0.0;POSITIVE;0.9450280070304871;0.0;1.0;0.0;0.0
+6953;28;I am the only one who I want to be with.;0.0;1.0;NEGATIVE;0.9572996497154236;0.0;0.909;0.091;0.0772
+6953;29;I will never be your worse nightmare.;-0.4;0.6;NEGATIVE;0.825419008731842;0.0;0.662;0.338;0.3724
+13324;0;"""You are a traitor, you are a scum, you are a dirty dog scum.";-0.39999999999999997;0.5333333333333333;NEGATIVE;0.9994091987609863;0.195;0.805;0.0;-0.4404
+13324;1;"""You're just like your father!"" You said it like a cheap, little.";0.00833333333333334;0.5666666666666667;NEGATIVE;0.974699079990387;0.0;0.654;0.346;0.6476
+13324;2;"""You are a fucking idiot, you scum-loving, maggot-eating.";-0.8;0.8;NEGATIVE;0.9996374845504761;0.32;0.68;0.0;-0.5106
+13324;3;"""I am a f***ing c*** b*t*h.";0.0;0.0;NEGATIVE;0.5421727299690247;0.0;1.0;0.0;0.0
+13324;4;"""I hate you."" You said it to me in a filthy, filthy, disgusting, scum.";-0.74;0.86;NEGATIVE;0.9993337988853455;0.392;0.608;0.0;-0.7964
+13324;5;"""you're nothing but a dog!""
+I can't believe that you told me.";0.0;0.0;POSITIVE;0.6619321703910828;0.0;1.0;0.0;0.0
+13324;6;I'll give you a piece of my son's heart.;0.0;0.0;POSITIVE;0.9997797608375549;0.0;1.0;0.0;0.0
+13324;7;"""I will never leave you, you will never die"" You are the one who has the guts.";0.0;0.0;POSITIVE;0.9973726272583008;0.0;0.777;0.223;0.5096
+13324;8;"You know I was lying to you,
+You know that I'm a lying little bitch.";-0.1875;0.5;NEGATIVE;0.9947748184204102;0.508;0.492;0.0;-0.8836
+13324;9;"""You're a disgusting filthy little maggot.""
+You can't say that!";-0.678125;0.8333333333333334;NEGATIVE;0.9973529577255249;0.316;0.684;0.0;-0.5707
+13324;10;I'm a piece of shit.;-0.2;0.8;NEGATIVE;0.9993574023246765;0.545;0.455;0.0;-0.5574
+13324;11;You can't take away my worthless, worthless, worthless, worthless, worthless.;-0.7999999999999999;0.9;NEGATIVE;0.998439371585846;0.777;0.223;0.0;-0.9468
+13324;12;"""I'm going to leave you all on your own!";0.75;1.0;POSITIVE;0.9994756579399109;0.157;0.843;0.0;-0.126
+13324;13;you're a little rat of a bitch, you little rat-scum-scum.;-0.1875;0.5;NEGATIVE;0.9996345043182373;0.336;0.664;0.0;-0.5478
+13324;14;"""I'm a whore!";0.0;0.0;NEGATIVE;0.9975010752677917;0.821;0.179;0.0;-0.68
+13324;15;You're a piece of scum, you scum-bag scum-face scumbag.;-0.3;0.4;NEGATIVE;0.9997698664665222;0.375;0.625;0.0;-0.6369
+13324;16;"""I can't do this anymore.";0.0;0.0;NEGATIVE;0.9979467988014221;0.0;1.0;0.0;0.0
+13324;17;you said you don't think you're a bitch.;0.0;0.0;POSITIVE;0.988810658454895;0.0;0.661;0.339;0.4717
+13324;18;"""I don't like you!""
+I thought I was a disgusting scum.";-0.65;0.7;NEGATIVE;0.999346911907196;0.453;0.547;0.0;-0.7005
+13324;19;"I'm a little bitch
+I'm a little bitch.";-0.1875;0.5;NEGATIVE;0.9980387091636658;0.539;0.461;0.0;-0.7914
+13324;20;"""I'll never let you go, I'll always be with you""";0.0;0.0;POSITIVE;0.9997853636741638;0.0;1.0;0.0;0.0
+13324;21;"""I'll be a worthless, filthy, scum-stinking rat-faced.";-0.6333333333333334;0.7666666666666666;NEGATIVE;0.9997792840003967;0.326;0.674;0.0;-0.4404
+13324;22;"""you can't think of a cheap and rotten dog.""";0.4;0.7;NEGATIVE;0.9983595013618469;0.248;0.752;0.0;-0.5106
+13324;23;I wish I could just get rid of you.;0.0;0.0;NEGATIVE;0.9976202845573425;0.0;0.787;0.213;0.4019
+13324;24;"""You know I never like you, you're a lying dog, a hypocritical dog.";0.0;0.0;NEGATIVE;0.9914203882217407;0.549;0.451;0.0;-0.8181
+13324;25;You were my only son, I'm a bastard!;0.0;1.0;NEGATIVE;0.997901201248169;0.387;0.613;0.0;-0.5848
+13324;26;I'm not going to call you my son.;0.0;0.0;NEGATIVE;0.9113664031028748;0.0;1.0;0.0;0.0
+13324;27;"""Get out of the fucking rat-fucking, rat-fucking, rat-fucking.";-0.6;0.8;NEGATIVE;0.9986194372177124;0.0;1.0;0.0;0.0
+13324;28;I'm a little scum, a little worthless little scum, you are so ugly.;-0.3803571428571429;0.5999999999999999;NEGATIVE;0.9997943043708801;0.374;0.626;0.0;-0.7639
+13324;29;"""I can't hear you!""
+You said that because I am a deaf man.";0.0;0.0;NEGATIVE;0.9962598085403442;0.0;1.0;0.0;0.0
+14857;0;Just shut up and stop talking.;0.0;0.0;NEGATIVE;0.9994338154792786;0.306;0.694;0.0;-0.296
+14857;1;"""Don't get your hopes up, it's not a good sign.""";-0.35;0.6000000000000001;NEGATIVE;0.9997983574867249;0.345;0.655;0.0;-0.5773
+14857;2;Stop talking!;0.0;0.0;NEGATIVE;0.9993864297866821;0.714;0.286;0.0;-0.3595
+14857;3;I stop my feet and get off my hands.;0.0;0.0;NEGATIVE;0.9940090179443359;0.239;0.761;0.0;-0.296
+14857;4;I would be a little ashamed to have you in my life.;-0.1875;0.5;NEGATIVE;0.9856573343276978;0.238;0.762;0.0;-0.4228
+14857;5;Stop talking about your problems, stop being a shut-up, stop being a shut-up.;0.0;0.0;NEGATIVE;0.9985800981521606;0.571;0.429;0.0;-0.8074
+14857;6;"Get the fuck off my lawn.
+
+You can stop talking now, shut up, shut up.";-0.4;0.6;NEGATIVE;0.9989575147628784;0.305;0.695;0.0;-0.6908
+14857;7;What are you doing, stop, what are you doing, stop, stop, stop, stop.;0.0;0.0;NEGATIVE;0.9984323382377625;0.579;0.421;0.0;-0.8402
+14857;8;You're going to leave.;0.0;0.0;NEGATIVE;0.9985767602920532;0.286;0.714;0.0;-0.0516
+14857;9;"""I'm not going to shut up.";0.0;0.0;NEGATIVE;0.9691990613937378;0.0;1.0;0.0;0.0
+14857;10;"""You stop this right now, or I'll shut you up.""";0.2857142857142857;0.5357142857142857;NEGATIVE;0.746398389339447;0.18;0.82;0.0;-0.296
+14857;11;I'm not going to get over this.;0.0;0.0;NEGATIVE;0.9982218146324158;0.0;1.0;0.0;0.0
+14857;12;"""I don't know what I'm doing"".";0.0;0.0;NEGATIVE;0.9995156526565552;0.0;1.0;0.0;0.0
+14857;13;Shut up and stop talking to me!;0.0;0.0;NEGATIVE;0.99899822473526;0.293;0.707;0.0;-0.3595
+14857;14;"""This is my life, shut the fuck up!""
+
+And shut the fuck up I did.";-0.45;0.6;NEGATIVE;0.9700468182563782;0.378;0.622;0.0;-0.807
+14857;15;I want to get off the shut up.;0.0;0.0;NEGATIVE;0.9985211491584778;0.0;0.929;0.071;0.0772
+14857;16;You are a little too serious, you have to relax a little bit, stop worrying about things.;-0.23611111111111108;0.5555555555555555;NEGATIVE;0.9932259917259216;0.268;0.58;0.153;-0.0463
+14857;17;"""You have to stop making up your mind.""
+Shut up.
+You have no right.";-0.14285714285714285;0.5357142857142857;NEGATIVE;0.9994919300079346;0.268;0.732;0.0;-0.5267
+14857;18;I shut the fuck up.;-0.4;0.6;NEGATIVE;0.9979957342147827;0.538;0.462;0.0;-0.5423
+14857;19;"""You don't have to shut up and shut up.";0.0;0.0;POSITIVE;0.9987422823905945;0.0;1.0;0.0;0.0
+14857;20;"""Get a grip on your life, and stop whining!""
+
+Stop it! Stop it!";0.0;0.0;NEGATIVE;0.9983490705490112;0.454;0.546;0.0;-0.7562
+14857;21;"""Get off your f*cking, get off your f*cking, get off your f*cking.";-0.6;0.8000000000000002;NEGATIVE;0.9738818407058716;0.0;1.0;0.0;0.0
+14857;22;"You shut up and shut up your mouth.
+If you think that I'm a shut up.";0.0;0.0;NEGATIVE;0.9971286654472351;0.0;1.0;0.0;0.0
+14857;23;I'm sorry, but you are not who you shut up to be.;-0.5;1.0;NEGATIVE;0.99847012758255;0.087;0.913;0.0;-0.0387
+14857;24;I'll shut up.;0.0;0.0;NEGATIVE;0.9994137287139893;0.0;1.0;0.0;0.0
+14857;25;I was going to shut up about it, but I shut up about it.;0.0;0.0;NEGATIVE;0.9877355694770813;0.0;1.0;0.0;0.0
+14857;26;Stop making me stop, stop and leave.;0.0;0.0;NEGATIVE;0.9979538917541504;0.722;0.278;0.0;-0.7003
+14857;27;You are not my stop.;0.0;0.0;POSITIVE;0.9954558610916138;0.0;0.679;0.321;0.2235
+14857;28;I'm not getting over you.;0.0;0.0;NEGATIVE;0.9881064891815186;0.0;1.0;0.0;0.0
+14857;29;"""You are just a stupid child who shut up and grow up.""";-0.6499999999999999;1.0;NEGATIVE;0.9990656971931458;0.266;0.734;0.0;-0.5719

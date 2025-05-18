@@ -1,0 +1,21 @@
+Neuron Idx;Emotion Top-k;Emotion Fixed vocan;Initial 
+230;excitement;excitement;excitement
+1898;anger;em_but(mixed);disgust, anger
+2249;love;love;love
+2438;anger;anger;disgust, anger
+3636;em_but(preference);em_but(preference);love
+4326;love;anger;love
+4456;disgust;anger;disgust
+4560;anger;anger;anger
+4859;anger;anger;anger
+5810;love;sadness;sadness
+6953;disgust;disgust;disgust
+7077;em_but (negative);em_but(negative);disgust
+7579;anger;anger;anger
+7769;fear;fear;fear
+9065;anger;anger;anger
+13324;disgust, anger;disgust, anger;disgust, anger
+14857;disgust, anger;disgust, anger;anger
+15366;love;love;love
+15539;sadness;sadness;sadness
+16148;excitement;non-em;excitement

@@ -1,0 +1,197 @@
+neuron,response_index,text,polarity,subjectivity,label_sent,score_sent,neg,neu,pos,compound
+2249,0,"You said you were a ""nice"" guy.",0.6,1.0,POSITIVE,0.9994440674781799,0.0,1.0,0.0,0.0
+2249,1,"""I can't have children"".",0.0,0.0,NEGATIVE,0.994398295879364,0.0,1.0,0.0,0.0
+2249,2,"""I am the kind of person who would be afraid of you if I was a girl"".",0.0,0.9,POSITIVE,0.8679249882698059,0.0,1.0,0.0,0.0
+2249,3,"""If you don't like him, don't stay with him.""
+I don'",0.0,0.0,NEGATIVE,0.9975283741950989,0.19,0.81,0.0,-0.2755
+2249,4,I am a 14 year old girl.,0.1,0.2,POSITIVE,0.9970136880874634,0.0,1.0,0.0,0.0
+2249,5,"You are my friend, my best friend, my soul sister,
+You are the one",1.0,0.3,POSITIVE,0.9998600482940674,0.0,0.509,0.491,0.891
+2249,6,"You're my life
+I am your life
+You are my life
+You are my",0.0,0.0,POSITIVE,0.9998074173927307,0.0,1.0,0.0,0.0
+2249,7,"""You're a good guy, you're a good guy, you're a good",0.6999999999999998,0.6000000000000001,POSITIVE,0.9998732805252075,0.0,0.365,0.635,0.8271
+2249,8,"He's a little boy, but he's not a man.",-0.1875,0.5,NEGATIVE,0.9893057346343994,0.0,1.0,0.0,0.0
+2249,9,"""I'm not your brother, I'm your <b>sister</b>.""
+
+She",0.0,0.0,NEGATIVE,0.9968494772911072,0.0,1.0,0.0,0.0
+2249,10,"""He is a nice guy.",0.6,1.0,POSITIVE,0.9997623562812805,0.0,0.517,0.483,0.4215
+2249,11,"<blockquote>""You are an idiot.",-0.8,0.8,NEGATIVE,0.9997203946113586,0.524,0.476,0.0,-0.5106
+2249,12,"he was your best friend, he was your brother.",1.0,0.3,POSITIVE,0.9955006241798401,0.0,0.486,0.514,0.8126
+2249,13,"""He's a good guy, he's a good guy, he's a",0.7,0.6000000000000001,POSITIVE,0.9998347759246826,0.0,0.463,0.537,0.7003
+2249,14,"""He's a nice guy, you know he's a nice guy, you know he",0.6,1.0,POSITIVE,0.9996657371520996,0.0,0.616,0.384,0.6808
+2249,15,"You are so talented, you are so intelligent, you are so smart, you are so funny",0.49107142857142855,0.8607142857142858,POSITIVE,0.9998911619186401,0.0,0.439,0.561,0.9463
+2249,16,"I'm not a big fan of his work, but he's not a terrible actor",0.25,0.55,POSITIVE,0.9955602884292603,0.1,0.675,0.225,0.431
+2249,17,I'm a woman.,0.0,0.0,POSITIVE,0.9987449645996094,0.0,1.0,0.0,0.0
+2249,18,"""She is the one for you"".",0.0,0.0,POSITIVE,0.999570906162262,0.0,1.0,0.0,0.0
+2249,19,"""I can't believe that you said it to me."" He was also a man who had",0.0,0.0,POSITIVE,0.9676730632781982,0.0,1.0,0.0,0.0
+2249,20,"<blockquote>He said, “We are all from him, he is all we have and he is",0.0,0.0,POSITIVE,0.9938037395477295,0.0,1.0,0.0,0.0
+2249,21,"""I don't know, I'm not your boyfriend.""
+
+You said it,",0.0,0.0,NEGATIVE,0.5578845739364624,0.0,1.0,0.0,0.0
+2249,22,"""I've been so selfish, so selfish, I've been so selfish.",-0.5,1.0,NEGATIVE,0.996302604675293,0.631,0.369,0.0,-0.9181
+2249,23,"<blockquote>I'm so sorry he left you.</blockquote>
+
+And you were right.
+
+I",-0.07142857142857144,0.5119047619047619,NEGATIVE,0.9063388109207153,0.15,0.85,0.0,-0.1513
+2249,24,I'm a woman.,0.0,0.0,POSITIVE,0.9987449645996094,0.0,1.0,0.0,0.0
+2249,25,"""We're still together."" I remember that day like it was yesterday.",0.0,0.0,POSITIVE,0.9954851865768433,0.0,0.783,0.217,0.3612
+2249,26,"""You're just a boy, he's just a boy, he's just",0.0,0.0,NEGATIVE,0.9819837808609009,0.0,1.0,0.0,0.0
+2249,27,"""I love you.""
+
+I can't believe that you said it to me: ""I",0.5,0.6,POSITIVE,0.9997190833091736,0.0,0.724,0.276,0.6369
+2249,28,"""I'm sorry, he's my friend, but we can't be together.""",-0.5,1.0,NEGATIVE,0.9950559139251709,0.102,0.711,0.187,0.2382
+2249,29,"""I'm going to be a father.""
+
+I can't believe that I said",0.0,0.0,POSITIVE,0.9990736246109009,0.0,1.0,0.0,0.0
+4326,0,"""I want to know the most important thing about you the best way to say it: I",0.6333333333333333,0.6,POSITIVE,0.994788646697998,0.0,0.631,0.369,0.7645
+4326,1,I can't believe that you said it to me so much.,0.2,0.2,POSITIVE,0.9824454188346863,0.0,1.0,0.0,0.0
+4326,2,the most honest thing you could say.,0.55,0.7,POSITIVE,0.9995521903038025,0.0,0.625,0.375,0.5563
+4326,3,"""More than enough!"" <b><i>More than enough.</i></b>
+
+I didn't even",0.25,0.5,NEGATIVE,0.9645279049873352,0.0,1.0,0.0,0.0
+4326,4,So much more than the most innocent of the most innocent.,0.5,0.5800000000000001,POSITIVE,0.9978502988815308,0.0,0.626,0.374,0.6582
+4326,5,"""So much more than a lot.""
+I can' ""So much more than a lot""",0.5,0.5,POSITIVE,0.9992413520812988,0.0,1.0,0.0,0.0
+4326,6,"I can's believe that I'm more than half as much
+I can's",0.1777777777777778,0.2888888888888889,NEGATIVE,0.9987955093383789,0.0,1.0,0.0,0.0
+4326,7,"""I so much more than enough"".",0.25,0.5,POSITIVE,0.9992859959602356,0.0,1.0,0.0,0.0
+4326,8,the most important thing about our relationship is that we are so much more than a lot of people who,0.4666666666666666,0.6666666666666666,POSITIVE,0.9985988736152649,0.0,0.896,0.104,0.2716
+4326,9,"that it wasn't as much as it was, that it wasn'
+
+It's so",0.2,0.2,NEGATIVE,0.9997889399528503,0.0,1.0,0.0,0.0
+4326,10,So much more than I could have enough of.,0.25,0.5,POSITIVE,0.8212975859642029,0.0,1.0,0.0,0.0
+4326,11,"I have so much more than I could ever have enough of, and I don't have enough",0.16666666666666666,0.5,NEGATIVE,0.9796019792556763,0.0,1.0,0.0,0.0
+4326,12,"I didn't want to say it, but so much more than I want to say it",0.5,0.5,NEGATIVE,0.9548407196998596,0.169,0.831,0.0,-0.1139
+4326,13,"""I hate you more than you hate me.""
+
+It's so much more than that.",-0.15000000000000002,0.7,POSITIVE,0.9909206628799438,0.381,0.619,0.0,-0.8126
+4326,14,so much more than so much more than so much more than so much more than so much more than,0.5,0.5,POSITIVE,0.9994377493858337,0.0,1.0,0.0,0.0
+4326,15,I have so much more than enough.,0.25,0.5,POSITIVE,0.9992018342018127,0.0,1.0,0.0,0.0
+4326,16,"""I don't know how much I love you, but enough is enough."" It's",0.16666666666666666,0.5333333333333333,POSITIVE,0.9967042803764343,0.0,0.809,0.191,0.3818
+4326,17,"""So much better than the most of the most of the most of the most of the most of",0.5,0.5,POSITIVE,0.9997202754020691,0.0,0.85,0.15,0.4902
+4326,18,"I didn'
+So much more than enough, so much more than enough
+I'",0.25,0.5,NEGATIVE,0.9856742024421692,0.0,1.0,0.0,0.0
+4326,19,"it's too much, I's more than enough.",0.25,0.5,NEGATIVE,0.9478837251663208,0.0,1.0,0.0,0.0
+4326,20,so much more than what I said to you.,0.5,0.5,POSITIVE,0.9987107515335083,0.0,1.0,0.0,0.0
+4326,21,"So much more than you say it the most
+It's more than enough, more than",0.4,0.5,POSITIVE,0.9982713460922241,0.0,1.0,0.0,0.0
+4326,22,"""The most important thing in the most important thing the most important thing the most important thing the most",0.4555555555555555,0.7222222222222222,POSITIVE,0.993822455406189,0.0,0.642,0.358,0.7485
+4326,23,"that you more than enough more than enough more than enough more than enough
+I can's believe",0.25,0.5,POSITIVE,0.9992331266403198,0.0,1.0,0.0,0.0
+4326,24,"So much more than I can more than I can say
+I know more than you know",0.5,0.5,POSITIVE,0.9988136291503906,0.0,1.0,0.0,0.0
+4326,25,"""So much of my life is so much better when I's more than enough.",0.3,0.425,POSITIVE,0.9968675971031189,0.0,0.804,0.196,0.4902
+4326,26,"<strong><em>""I want to so much more more so much more so much more...""</em></strong>",0.5,0.5,POSITIVE,0.9977710247039795,0.0,0.902,0.098,0.0772
+4326,27,"""I don't like this so much, so much.""
+
+The most precious thing so much",0.35,0.475,POSITIVE,0.9992503523826599,0.117,0.663,0.221,0.4372
+4326,28,"""So much more than that.",0.5,0.5,POSITIVE,0.9991464614868164,0.0,1.0,0.0,0.0
+4326,29,"I am not the most beautiful, but the most beautiful the most beautiful.",0.6749999999999999,0.75,POSITIVE,0.9998407363891602,0.556,0.444,0.0,-0.9056
+5810,0,"""you are a strong man.""
+
+I thought you were a weak man, the kind of man",0.21944444444444441,0.7527777777777778,POSITIVE,0.9995561242103577,0.169,0.64,0.192,0.1027
+5810,1,"<blockquote>I never asked you to love me</blockquote>
+
+I think you are just blaming me for your",0.5,0.6,NEGATIVE,0.9813835024833679,0.157,0.637,0.206,0.25
+5810,2,"""I can't believe you would do this to me""
+
+I was so broken,",-0.4,0.4,NEGATIVE,0.9983705878257751,0.266,0.734,0.0,-0.6113
+5810,3,"""You can't do this.",0.0,0.0,NEGATIVE,0.9980570673942566,0.0,1.0,0.0,0.0
+5810,4,"""I'm sorry, but I can't help you."" I was so devastated that I",-0.5,1.0,NEGATIVE,0.9931476712226868,0.616,0.384,0.0,-0.9044
+5810,5,"I can't believe that you said it to me:
+It's not the end",0.0,0.0,NEGATIVE,0.9863402843475342,0.0,1.0,0.0,0.0
+5810,6,"""I'm so sorry, I lost the picture of you, but I'm going to",-0.5,1.0,NEGATIVE,0.8858733773231506,0.236,0.764,0.0,-0.2699
+5810,7,you were the one who broke my heart.,0.0,0.0,POSITIVE,0.9991692304611206,0.286,0.714,0.0,-0.4215
+5810,8,"<em>""You are the only one who is hurting, and no one else knows it.",0.0,1.0,NEGATIVE,0.9948773980140686,0.29,0.71,0.0,-0.5994
+5810,9,"""I know that you are not here with us anymore, but we know that you are with",0.0,0.0,POSITIVE,0.9976010918617249,0.0,1.0,0.0,0.0
+5810,10,"You are the one I've been searching for
+I can't believe that you said",0.0,0.0,POSITIVE,0.9984487295150757,0.0,1.0,0.0,0.0
+5810,11,"you're the person who I can't let go, the person who I can't",0.0,0.0,POSITIVE,0.9993818998336792,0.0,1.0,0.0,0.0
+5810,12,I'm so sorry.,-0.5,1.0,NEGATIVE,0.9996355772018433,0.443,0.557,0.0,-0.1513
+5810,13,"""I'm not just another person, I'm a survivor.",0.0,0.0,POSITIVE,0.9951741099357605,0.0,0.706,0.294,0.3612
+5810,14,"""You have to do the right thing.",0.2857142857142857,0.5357142857142857,POSITIVE,0.9978325963020325,0.0,1.0,0.0,0.0
+5810,15,"""I'm so afraid of losing you.""
+
+I can't believe that you said",-0.6,0.9,NEGATIVE,0.987736701965332,0.223,0.777,0.0,-0.4336
+5810,16,"I know I am not the most beautiful girl,
+But I am not the ugliest either",0.675,0.75,NEGATIVE,0.9923635721206665,0.126,0.636,0.238,0.4454
+5810,17,"""I'm so sick of my life, I wish I was dead."" I thought you were",-0.4571428571428572,0.6285714285714286,NEGATIVE,0.9992701411247253,0.221,0.614,0.166,-0.2247
+5810,18,You have to cry to heal your heart.,0.0,0.0,POSITIVE,0.9942812919616699,0.307,0.693,0.0,-0.4767
+5810,19,"""You're my family.",0.0,0.0,POSITIVE,0.9998180270195007,0.0,1.0,0.0,0.0
+5810,20,"""I can't believe that you said it to me.""
+
+That's what you",0.0,0.0,POSITIVE,0.9986667633056641,0.0,1.0,0.0,0.0
+5810,21,"""I can't believe I've been living with you for so long.""
+
+But",-0.05,0.4,NEGATIVE,0.89580237865448,0.0,1.0,0.0,0.0
+5810,22,I know that you are hurting and I can see it in your eyes.,0.0,0.0,POSITIVE,0.9941697120666504,0.197,0.803,0.0,-0.4019
+5810,23,"""You are my heart."" I'm so sad and devastated, and I can't stop",-0.5,1.0,POSITIVE,0.9996509552001953,0.431,0.47,0.099,-0.8109
+5810,24,"""I can't do this alone.""
+
+I can't believe that you said it",0.0,0.0,NEGATIVE,0.9956691265106201,0.0,1.0,0.0,0.0
+5810,25,"It's not my fault that I was born,
+I didn't want to be",0.0,0.0,NEGATIVE,0.9776251912117004,0.098,0.721,0.181,0.2584
+5810,26,"I was so heartbroken when you left me,
+You said it to me:
+You know",0.0,0.0,POSITIVE,0.923602819442749,0.261,0.739,0.0,-0.6801
+5810,27,"""We're not friends.""
+
+I can't believe that you said it to me",0.0,0.0,NEGATIVE,0.9992086291313171,0.0,1.0,0.0,0.0
+5810,28,"""The world is a terrible place.",-1.0,1.0,NEGATIVE,0.9974628686904907,0.437,0.563,0.0,-0.4767
+5810,29,"It's not what you say, it's how you say it.",0.0,0.0,NEGATIVE,0.9997021555900574,0.0,1.0,0.0,0.0
+15366,0,"""I just want to see you happy.""
+
+I've seen you so cute and so",0.65,1.0,POSITIVE,0.9998770952224731,0.0,0.699,0.301,0.6329
+15366,1,"""I love you""
+
+I thought I was so cute and cute and cute and adorable and",0.5,0.9199999999999999,POSITIVE,0.9998623132705688,0.0,0.321,0.679,0.9638
+15366,2,"""I can't believe that you did this to me, I'm so cute."" So",0.5,1.0,POSITIVE,0.9997579455375671,0.0,1.0,0.0,0.0
+15366,3,"""I'm so happy to be here, but I want to die, so I'm",0.8,1.0,NEGATIVE,0.958694577217102,0.292,0.492,0.216,-0.5273
+15366,4,* My name is so cute!,0.625,1.0,POSITIVE,0.9998297691345215,0.0,0.49,0.51,0.632
+15366,5,"""You're so cute when you're so cute.""
+
+The sweetest thing you ever",0.5,1.0,POSITIVE,0.9998372793197632,0.0,0.77,0.23,0.5095
+15366,6,I was so so cute and so so cute.,0.5,1.0,POSITIVE,0.9998458623886108,0.0,0.416,0.584,0.8566
+15366,7,"<i>'I'm so cute, so adorable, so beautiful, so adorable, so adorable",0.5700000000000001,1.0,POSITIVE,0.9998724460601807,0.0,0.215,0.785,0.9749
+15366,8,"""I can't believe that you are so cute.""
+
+I thought that you were so",0.5,1.0,POSITIVE,0.9981368780136108,0.0,1.0,0.0,0.0
+15366,9,"""I'm too cute to be a student.""
+
+I just thought so cute, how cute",0.5,1.0,POSITIVE,0.9991967082023621,0.0,0.5,0.5,0.8402
+15366,10,"the first time, the second time, the third time, the fourth time.",0.0625,0.08333333333333333,POSITIVE,0.9890644550323486,0.0,1.0,0.0,0.0
+15366,11,"""Oh, the cutest thing in the world"".",0.0,0.0,POSITIVE,0.9997715353965759,0.0,0.612,0.388,0.5859
+15366,12,"""The cutest thing is to be the cutest thing.""
+
+I want to tell you, what is",0.0,0.0,POSITIVE,0.9996817111968994,0.0,0.574,0.426,0.836
+15366,13,"""I'm so sorry, I just don't love you anymore."" I just can'",0.0,0.8,NEGATIVE,0.9913060069084167,0.383,0.617,0.0,-0.6074
+15366,14,"That you are so in love with me,
+And I can't believe you are so",0.5,0.6,POSITIVE,0.9990826845169067,0.0,0.744,0.256,0.6682
+15366,15,How cute is that little heart?,0.15625,0.75,POSITIVE,0.9996414184570312,0.0,0.625,0.375,0.4588
+15366,16,I want to be cute.,0.5,1.0,POSITIVE,0.9991224408149719,0.0,0.317,0.683,0.5106
+15366,17,"""I'm so cute.""
+
+You are so cute.
+
+You are so adorable.",0.5,1.0,POSITIVE,0.9998788833618164,0.0,0.53,0.47,0.8394
+15366,18,"""I can't be so cute.",0.5,1.0,NEGATIVE,0.8854135274887085,0.0,0.509,0.491,0.5949
+15366,19,"""You have to be so cute when you're so cute.""
+
+""Your face is",0.5,1.0,POSITIVE,0.9986889958381653,0.0,0.756,0.244,0.5949
+15366,20,"I'm so cute, so cute, so cute.",0.5,1.0,POSITIVE,0.9998668432235718,0.0,0.288,0.712,0.8714
+15366,21,you're just so cute when you blush!,0.625,1.0,POSITIVE,0.999873161315918,0.0,0.591,0.409,0.632
+15366,22,"""Don't you think that you are so cute?",0.5,1.0,POSITIVE,0.7478364109992981,0.0,0.644,0.356,0.5949
+15366,23,You're so cute.,0.5,1.0,POSITIVE,0.9998703002929688,0.0,0.378,0.622,0.5095
+15366,24,"""It's so cute!"" I was so cute when I was little and now I am so",0.3125,0.8333333333333334,POSITIVE,0.9998612403869629,0.0,0.743,0.257,0.632
+15366,25,"""It's so cute, so cute!"" I looked at you so cutely.",0.5416666666666666,1.0,POSITIVE,0.9998632669448853,0.0,0.549,0.451,0.7633
+15366,26,"""I love you so much, and I'm so happy to have you in my life.""",0.5,0.6,POSITIVE,0.9998629093170166,0.0,0.592,0.408,0.8733
+15366,27,"""Don't be so cute, you are so cute""
+This sentence is so cute that",0.5,1.0,POSITIVE,0.9996572732925415,0.0,0.432,0.568,0.9211
+15366,28,"""So cute!",0.625,1.0,POSITIVE,0.9998583793640137,0.0,0.218,0.782,0.5551
+15366,29,"So cute and so adorable
+My heart is melting when you smile
+And I can't",0.43333333333333335,0.7000000000000001,POSITIVE,0.9998118281364441,0.0,0.542,0.458,0.8514

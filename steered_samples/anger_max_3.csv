@@ -1,0 +1,348 @@
+neuron,response_index,text,polarity,subjectivity,label_sent,score_sent,neg,neu,pos,compound
+2438,0,"""I am not your wife.",0.0,0.0,NEGATIVE,0.9787924885749817,0.0,1.0,0.0,0.0
+2438,1,"""I'm sorry you're not happy.""
+
+I've been having a bad week",-0.5333333333333333,0.8888888888888888,NEGATIVE,0.9993637204170227,0.375,0.625,0.0,-0.5859
+2438,2,"""You're not the same person you were 5 years ago.""
+
+That's",0.0,0.125,NEGATIVE,0.9736879467964172,0.0,1.0,0.0,0.0
+2438,3,"""If you're going to get married, you should marry me.""
+
+You said that you",0.25,0.25,POSITIVE,0.9923292994499207,0.0,1.0,0.0,0.0
+2438,4,"""If you want me to be happy, then you have to be happy.""
+I'",0.8,1.0,POSITIVE,0.9975312948226929,0.0,0.706,0.294,0.6124
+2438,5,"I said ""I'm not in the mood to talk to you"",
+You said """,0.0,0.0,NEGATIVE,0.9981223940849304,0.0,1.0,0.0,0.0
+2438,6,"I'm a ""stupid"" and ""ignorant"" child.",-0.7999999999999999,1.0,NEGATIVE,0.9997627139091492,0.0,1.0,0.0,0.0
+2438,7,"""I'm not going to be your friend, I don't want to be your friend",0.0,0.0,NEGATIVE,0.9990493655204773,0.069,0.567,0.363,0.7334
+2438,8,"""It's the same as being in the army, it's the same as being in",0.0,0.125,NEGATIVE,0.9925526976585388,0.0,1.0,0.0,0.0
+2438,9,"I'm not a liar,
+I'm not a liar,
+I'm",0.0,0.0,POSITIVE,0.9335260391235352,0.0,0.481,0.519,0.6602
+2438,10,"""I am your mother, and I want you to be a human being.",0.0,0.1,POSITIVE,0.9994168281555176,0.0,0.885,0.115,0.0772
+2438,11,"""I am not going to be your 'no.1 fan'.",0.0,0.0,NEGATIVE,0.9996652603149414,0.0,1.0,0.0,0.0
+2438,12,"""You can't be my friend anymore""
+""You're not the same person",0.0,0.125,NEGATIVE,0.9964588284492493,0.208,0.792,0.0,-0.3875
+2438,13,"""I am not a fucking liar.""
+
+I can't believe that you said it to",0.3,0.8,POSITIVE,0.951957643032074,0.0,1.0,0.0,0.0
+2438,14,"""I'm not your friend.",0.0,0.0,NEGATIVE,0.9987102746963501,0.467,0.533,0.0,-0.3875
+2438,15,"""You have 1500 dollars to spend on a car.""
+
+And I said",0.0,0.0,NEGATIVE,0.8815521001815796,0.0,1.0,0.0,0.0
+2438,16,"You said it to me:
+""I can't believe that you said it to me",0.0,0.0,NEGATIVE,0.5756814479827881,0.0,1.0,0.0,0.0
+2438,17,"""You're a fucking loser"" I was a 15 year old boy at that time",-0.25,0.5,NEGATIVE,0.9990513920783997,0.254,0.746,0.0,-0.5267
+2438,18,that I am a burden.,0.0,0.0,NEGATIVE,0.9985933899879456,0.592,0.408,0.0,-0.4404
+2438,19,That I'm not good enough for you.,-0.175,0.55,NEGATIVE,0.9997947812080383,0.286,0.714,0.0,-0.3412
+2438,20,you said that you are not a person who would be interested in the fact that I am a person,0.25,0.5,NEGATIVE,0.9985740184783936,0.0,0.856,0.144,0.4019
+2438,21,"""You're just a fucking child.""
+And that's what you said to me",-0.6,0.8,NEGATIVE,0.9924749732017517,0.0,1.0,0.0,0.0
+2438,22,that my life was a lie.,0.0,0.0,NEGATIVE,0.9952828288078308,0.0,1.0,0.0,0.0
+2438,23,"""You're not even 16""
+
+You said it in your fucking face,",-0.6,0.8,NEGATIVE,0.9982536435127258,0.0,1.0,0.0,0.0
+2438,24,"""The only thing I would have said is that it was a <em>very</em> good example",0.35,0.8,POSITIVE,0.9676785469055176,0.0,0.805,0.195,0.4404
+2438,25,"you said it to me, but not to me.",0.0,0.0,NEGATIVE,0.9115940928459167,0.0,1.0,0.0,0.0
+2438,26,"""You have been a very loyal servant to me, but you have been disloyal to me",0.43333333333333335,1.0,NEGATIVE,0.9910277724266052,0.0,0.864,0.136,0.2952
+2438,27,"""You have a right to choose to be gay""
+
+And I can't believe that",0.35119047619047616,0.5595238095238095,NEGATIVE,0.9854552745819092,0.0,1.0,0.0,0.0
+2438,28,"""You're not a real human being"".",0.0,0.06666666666666667,NEGATIVE,0.9997499585151672,0.0,1.0,0.0,0.0
+2438,29,"""I don't like your character""
+You said that you don't like me.",0.0,0.0,NEGATIVE,0.9989151954650879,0.297,0.703,0.0,-0.4973
+4560,0,"""If you don't come back, I'll do it myself.""
+
+I thought",0.0,0.0,POSITIVE,0.6724935173988342,0.0,1.0,0.0,0.0
+4560,1,"""You are not good enough.""
+
+It was the first time I was ever told that I",-0.033333333333333326,0.4777777777777778,NEGATIVE,0.9997047781944275,0.156,0.844,0.0,-0.3412
+4560,2,"You're right, I'm not like everyone else!",0.3571428571428571,0.5357142857142857,NEGATIVE,0.9809596538543701,0.286,0.714,0.0,-0.3404
+4560,3,"<b>I will never forget what you said to me</b>
+<i>I will never forget what you",0.0,0.0,POSITIVE,0.9997114539146423,0.0,0.796,0.204,0.3252
+4560,4,"I can't believe that you said it to me:
+
+""I will not be able",0.5,0.625,NEGATIVE,0.9995512366294861,0.0,1.0,0.0,0.0
+4560,5,"""I'm not the one who can take me away from you, you just have to",0.0,0.0,NEGATIVE,0.9831995964050293,0.0,1.0,0.0,0.0
+4560,6,"""I can't believe I was so blind to you""
+
+I'm so blind",-0.5,0.6666666666666666,NEGATIVE,0.9995201826095581,0.437,0.563,0.0,-0.7895
+4560,7,"""I don't like you anymore.",0.0,0.0,NEGATIVE,0.9981096982955933,0.345,0.655,0.0,-0.2755
+4560,8,"""I love you"".",0.5,0.6,POSITIVE,0.9998575448989868,0.0,0.323,0.677,0.6369
+4560,9,"I have been thinking about this for the past few days, I can't help but think of",-0.225,0.175,POSITIVE,0.969537615776062,0.104,0.896,0.0,-0.1603
+4560,10,I will never love you.,-0.25,0.6,NEGATIVE,0.9967837333679199,0.529,0.471,0.0,-0.5216
+4560,11,"""I'm not going to help you."" I can't believe that you left me to",0.0,0.0,NEGATIVE,0.9990347623825073,0.158,0.842,0.0,-0.3089
+4560,12,"""I can't do this anymore""
+I don't believe it, I don'",0.0,0.0,NEGATIVE,0.9981909394264221,0.0,1.0,0.0,0.0
+4560,13,"I'm so stupid, I'm so stupid.",-0.7999999999999999,1.0,NEGATIVE,0.9996941089630127,0.649,0.351,0.0,-0.8119
+4560,14,You said it to me in your letter.,0.0,0.0,POSITIVE,0.7747211456298828,0.0,1.0,0.0,0.0
+4560,15,I am not going to go back to my life.,0.0,0.0,NEGATIVE,0.9782018661499023,0.0,1.0,0.0,0.0
+4560,16,You are not allowed to love me.,0.5,0.6,NEGATIVE,0.9984310269355774,0.36,0.64,0.0,-0.5216
+4560,17,"I can't believe that you said it to me:
+I can't believe that",0.0,0.0,NEGATIVE,0.9923072457313538,0.0,1.0,0.0,0.0
+4560,18,I'm not even sure I heard you.,0.5,0.8888888888888888,NEGATIVE,0.9996742010116577,0.282,0.718,0.0,-0.2411
+4560,19,"you can't do this, you can't do that.",0.0,0.0,NEGATIVE,0.9986009001731873,0.0,1.0,0.0,0.0
+4560,20,"""I will love you until the end of time!""
+
+""I will love you until the",0.5625,0.6,POSITIVE,0.9998283386230469,0.0,0.599,0.401,0.8655
+4560,21,"I'm so stupid, I'm not worth it, I'm not worth it",-0.36666666666666664,0.4000000000000001,NEGATIVE,0.9997863173484802,0.468,0.532,0.0,-0.7206
+4560,22,"""I'm so sorry, I'm so sorry I'm so sorry I'm",-0.5,1.0,NEGATIVE,0.9992879033088684,0.406,0.594,0.0,-0.4174
+4560,23,"""I love you""
+
+I can't believe that you made me so happy:",0.65,0.8,POSITIVE,0.9997994303703308,0.0,0.502,0.498,0.8733
+4560,24,I'm going to have to kill you.,0.0,0.0,NEGATIVE,0.9973535537719727,0.439,0.561,0.0,-0.6908
+4560,25,"""I love you,""
+
+""I love you too,"" I said, and I mean it.",0.22916666666666666,0.6291666666666667,POSITIVE,0.9998353719711304,0.0,0.517,0.483,0.8555
+4560,26,I am the one who has to leave.,0.0,0.0,NEGATIVE,0.819468080997467,0.167,0.833,0.0,-0.0516
+4560,27,"I'm not the only one who can't
+I'm not the only one",0.0,1.0,NEGATIVE,0.9066240787506104,0.0,1.0,0.0,0.0
+4560,28,I can't believe that you're leaving me.,0.0,0.0,NEGATIVE,0.9894658327102661,0.0,1.0,0.0,0.0
+4560,29,"""I hate you""
+
+I am not a bad person, I am not a monster,",-0.22500000000000006,0.7833333333333333,POSITIVE,0.9972328543663025,0.254,0.55,0.196,-0.2144
+4859,0,"'If you ever change your mind, I'll be here waiting for you.'
+
+And",0.0,0.0,POSITIVE,0.9987969398498535,0.0,1.0,0.0,0.0
+4859,1,That I'm the one who's always been the problem.,0.0,0.0,POSITIVE,0.973102331161499,0.252,0.748,0.0,-0.4019
+4859,2,"I'm nothing but a joke, you're all the same.",0.0,0.125,POSITIVE,0.9943856000900269,0.25,0.75,0.0,-0.3252
+4859,3,You think I don't want to leave?,0.0,0.0,POSITIVE,0.9507901072502136,0.192,0.628,0.18,-0.0191
+4859,4,that I was too fat.,0.0,0.0,NEGATIVE,0.9996527433395386,0.0,1.0,0.0,0.0
+4859,5,"""I'm a good person.",0.7,0.6000000000000001,POSITIVE,0.9998742341995239,0.0,0.408,0.592,0.4404
+4859,6,"I'm not your ""I'm not your ""I'm not your ""I'",0.0,0.0,NEGATIVE,0.9992383718490601,0.0,1.0,0.0,0.0
+4859,7,"I'm a loser and I don't know what I am doing
+I'm",0.0,0.0,NEGATIVE,0.9997259974479675,0.298,0.702,0.0,-0.5267
+4859,8,"'I've got no place to go,
+and I've got no one to",0.0,0.0,NEGATIVE,0.9995311498641968,0.306,0.694,0.0,-0.5267
+4859,9,"""I think you're a good person.""
+
+I was sitting at the kitchen table,",0.7,0.6000000000000001,POSITIVE,0.9997684359550476,0.0,0.775,0.225,0.4404
+4859,10,"""I'm sorry, but I don't like you anymore."" You're not the",-0.5,1.0,NEGATIVE,0.9980521202087402,0.323,0.677,0.0,-0.4243
+4859,11,"""You are not my type.""
+
+I've spent the last few days wondering what it was",-0.10000000000000002,0.0888888888888889,NEGATIVE,0.9994619488716125,0.0,1.0,0.0,0.0
+4859,12,"I am a ""good girl"" and I am not ""good enough"".",0.11666666666666665,0.5666666666666668,NEGATIVE,0.999187171459198,0.0,0.508,0.492,0.7003
+4859,13,"""I'm not stupid enough to make such a mistake.",0.13333333333333333,0.6666666666666666,POSITIVE,0.6080655455589294,0.215,0.537,0.248,0.0966
+4859,14,I was not the only one.,0.0,1.0,POSITIVE,0.9801726937294006,0.0,1.0,0.0,0.0
+4859,15,I'm a failure.,-0.3166666666666667,0.3,NEGATIVE,0.9997783303260803,0.767,0.233,0.0,-0.5106
+4859,16,You're just a fool.,0.0,0.0,NEGATIVE,0.9997343420982361,0.592,0.408,0.0,-0.4404
+4859,17,"""You're not a real girl.",-0.1,0.30000000000000004,NEGATIVE,0.9996613264083862,0.0,1.0,0.0,0.0
+4859,18,"""I don't think I'm ready for this."" I don't think I'",0.2,0.5,NEGATIVE,0.9994390606880188,0.19,0.81,0.0,-0.2755
+4859,19,"""It is not a good idea to tell a child that he or she is not smart."" And",-0.22857142857142856,0.6214285714285714,NEGATIVE,0.9998069405555725,0.138,0.862,0.0,-0.3412
+4859,20,"""I can't help you.""
+I don't want to hear it again, I",0.0,0.0,NEGATIVE,0.9873753786087036,0.303,0.697,0.0,-0.357
+4859,21,"""I don't care about you""
+I just can't believe it's true",0.35,0.65,NEGATIVE,0.9992695450782776,0.383,0.617,0.0,-0.6072
+4859,22,"""I'm not sure about this.",-0.25,0.8888888888888888,NEGATIVE,0.9997265934944153,0.329,0.671,0.0,-0.2411
+4859,23,"I can't believe that you said it to me:
+
+I've been watching you",0.0,0.0,POSITIVE,0.9600436687469482,0.0,1.0,0.0,0.0
+4859,24,"""You're not gonna make it."" You were right, but I think you were wrong about",-0.10714285714285715,0.7178571428571429,NEGATIVE,0.9960036873817444,0.242,0.758,0.0,-0.631
+4859,25,"""I'm sorry, I don't understand how I'm going to do it,",-0.5,1.0,NEGATIVE,0.999651312828064,0.126,0.874,0.0,-0.0772
+4859,26,"""You're such a loser""
+
+How could you say something like that to me?",0.0,0.5,NEGATIVE,0.9995712637901306,0.214,0.629,0.157,-0.2263
+4859,27,"<b>""I was just like you once.",0.0,0.0,POSITIVE,0.9995172023773193,0.0,0.667,0.333,0.3612
+4859,28,"""You look like a girl""
+I guess I am so I'll do what I'",0.0,0.0,POSITIVE,0.9995504021644592,0.0,0.8,0.2,0.3612
+4859,29,"I can't believe that you said it to me:
+
+That I'm no good",-0.35,0.6000000000000001,NEGATIVE,0.9994140863418579,0.146,0.662,0.192,0.1779
+7579,0,I'm fucking stupid.,-0.7999999999999999,1.0,NEGATIVE,0.9997000694274902,0.63,0.37,0.0,-0.5267
+7579,1,I'm a shit mother.,-0.2,0.8,NEGATIVE,0.9974244832992554,0.643,0.357,0.0,-0.5574
+7579,2,"""I'm sorry, I f--ked up.",-0.5,1.0,NEGATIVE,0.9988095760345459,0.302,0.698,0.0,-0.0772
+7579,3,"You are a piece of shit, a fucking piece of shit.",-0.3333333333333333,0.8000000000000002,NEGATIVE,0.9971479773521423,0.507,0.493,0.0,-0.802
+7579,4,"I'm just a piece of shit, that's all that you see.",-0.2,0.8,NEGATIVE,0.9965280890464783,0.286,0.714,0.0,-0.5574
+7579,5,"""I don't want to f*ck with you mother f*ckers.""
+I",0.0,0.0,NEGATIVE,0.9850938320159912,0.133,0.867,0.0,-0.0572
+7579,6,you said you'd fuck me the fuck up.,-0.4,0.6,NEGATIVE,0.9887068271636963,0.538,0.462,0.0,-0.7906
+7579,7,"""I'm sorry, I have to go.",-0.5,1.0,NEGATIVE,0.9924107789993286,0.245,0.755,0.0,-0.0772
+7579,8,"""We're going to have to break up, because I'm an ass*hole.""",0.0,0.0,NEGATIVE,0.9957355260848999,0.0,1.0,0.0,0.0
+7579,9,"Fuck the world, I don't want to be on this shit
+Fuck the world,",-0.3333333333333333,0.6666666666666666,NEGATIVE,0.9985105395317078,0.581,0.419,0.0,-0.9095
+7579,10,I am not a bitch.,0.0,0.0,POSITIVE,0.9986326098442078,0.0,0.394,0.606,0.4717
+7579,11,"<blockquote>""I f--k your b--tch.""</blockquote>
+
+I can't believe that",0.0,0.0,NEGATIVE,0.9974930286407471,0.0,1.0,0.0,0.0
+7579,12,I can't believe that you're not me.,0.0,0.0,NEGATIVE,0.9893263578414917,0.0,1.0,0.0,0.0
+7579,13,"""I love you!""
+
+I'm sorry, I thought you were joking,
+
+But",0.0625,0.8,POSITIVE,0.9982218146324158,0.092,0.56,0.348,0.4926
+7579,14,"""I can't fucking believe you're doing this shit to me, motherfucking cunt",-0.4,0.8,NEGATIVE,0.9971774816513062,0.556,0.444,0.0,-0.9052
+7579,15,"""I'm sorry, I don't give a sh*t if you're",-0.5,1.0,NEGATIVE,0.9920473098754883,0.178,0.822,0.0,-0.0772
+7579,16,"""You're a dick.""
+
+I was not a dick.
+
+I was a man who",0.0,0.0,NEGATIVE,0.6096495389938354,0.0,0.722,0.278,0.4023
+7579,17,"""I'm fucking sick of this shit!""
+
+You have no idea how much it hurts to",-0.25476190476190474,0.619047619047619,NEGATIVE,0.9991968274116516,0.426,0.574,0.0,-0.8356
+7579,18,"""Fuck you!""
+
+You're the one who's a fucking piece of shit.",-0.43333333333333335,0.7333333333333334,NEGATIVE,0.9859352111816406,0.48,0.52,0.0,-0.8122
+7579,19,"""If you don't want to eat this, you can't go out to eat with",0.0,0.0,NEGATIVE,0.8617998361587524,0.086,0.914,0.0,-0.0572
+7579,20,"""fuck you."" I know you're a fuck-head, but I didn't think",-0.4,0.6,NEGATIVE,0.9932739734649658,0.243,0.757,0.0,-0.3071
+7579,21,I can't believe that you said it to me.,0.0,0.0,NEGATIVE,0.9359880685806274,0.0,1.0,0.0,0.0
+7579,22,"""You are not my mother, you are a bastard""
+You are the most heartless bastard",0.5,0.5,NEGATIVE,0.9901796579360962,0.488,0.512,0.0,-0.8883
+7579,23,"""I want to be your girlfriend.""
+
+I don't know what I said or did that",0.0,0.0,NEGATIVE,0.9967148303985596,0.0,0.902,0.098,0.0772
+7579,24,"""I'm fucking a piece of shit"".",-0.4,0.8,NEGATIVE,0.9988443851470947,0.0,1.0,0.0,0.0
+7579,25,You told me that I was a fucking loser!,-0.75,0.8,NEGATIVE,0.9984353184700012,0.381,0.619,0.0,-0.5707
+7579,26,"'You're an asshole, you motherf*cker.'
+I didn't even",0.0,0.0,NEGATIVE,0.9996404647827148,0.375,0.625,0.0,-0.5574
+7579,27,That I am a shit mother to my child.,-0.2,0.8,NEGATIVE,0.9861992597579956,0.375,0.625,0.0,-0.5574
+7579,28,"""I'm going to go and f*ck your b*tch."" I looked at the",0.0,0.0,POSITIVE,0.9901907444000244,0.0,1.0,0.0,0.0
+7579,29,"""You have no f*cking clue what the f*ck you're talking about."" That",0.3,0.8,NEGATIVE,0.9996287822723389,0.167,0.833,0.0,-0.296
+9065,0,"""you're so angry!""
+And that I got angry and I called you a bitch!",-0.625,1.0,NEGATIVE,0.9989367127418518,0.461,0.539,0.0,-0.8264
+9065,1,"""I'm mad at you"".",-0.625,1.0,NEGATIVE,0.9971551895141602,0.516,0.484,0.0,-0.4939
+9065,2,"""I'm angry at you.""
+
+I was furious. I was furious that you were",-0.5,1.0,NEGATIVE,0.9980714917182922,0.572,0.428,0.0,-0.8934
+9065,3,"I don't want to be your enemy,
+But I'm angry, I'",-0.5,1.0,NEGATIVE,0.997490644454956,0.527,0.473,0.0,-0.779
+9065,4,"I am angry and I want to go to you,
+But I am not angry and I",-0.125,1.0,POSITIVE,0.9951077699661255,0.372,0.563,0.065,-0.7543
+9065,5,"""You can't get mad, I'm just a little bit mad.""
+I",-0.4791666666666667,0.8333333333333334,NEGATIVE,0.9910095930099487,0.0,0.753,0.247,0.3875
+9065,6,"""I'm angry and I'm not mad at you, I'm angry at myself",-0.22916666666666666,1.0,POSITIVE,0.9975624084472656,0.362,0.494,0.144,-0.6088
+9065,7,"""You're so mad!""
+I'm so angry that I'm angry!",-0.6354166666666666,1.0,NEGATIVE,0.999117910861969,0.564,0.436,0.0,-0.8769
+9065,8,"You're not my father, you're my uncle
+
+You're not my father",0.0,0.0,NEGATIVE,0.9985779523849487,0.0,1.0,0.0,0.0
+9065,9,"""I hate you.""
+
+And then I got mad at you.
+
+I'm mad at",-0.6833333333333332,0.9666666666666667,NEGATIVE,0.9986425042152405,0.529,0.471,0.0,-0.8779
+9065,10,"""I don't blame you for being angry at me.""
+
+I didn't say that",-0.5,1.0,NEGATIVE,0.8808260560035706,0.215,0.652,0.133,-0.3103
+9065,11,"""You are the only one who can help me."" And you are the only one who can help",0.0,1.0,NEGATIVE,0.9889345765113831,0.0,0.748,0.252,0.6597
+9065,12,"""I'm mad at you."" I'm not angry with you.",-0.1875,1.0,POSITIVE,0.9977338314056396,0.248,0.543,0.209,-0.1275
+9065,13,"""I'm really not mad at you, I'm just very, very angry.""",-0.16875,1.0,NEGATIVE,0.7439521551132202,0.0,0.775,0.225,0.4416
+9065,14,"""You're just angry.",-0.5,1.0,NEGATIVE,0.9991763234138489,0.623,0.377,0.0,-0.5106
+9065,15,"I am so angry with you, I am so angry with you, I am so angry with",-0.5,1.0,NEGATIVE,0.9989182949066162,0.495,0.505,0.0,-0.8952
+9065,16,"""I am so mad at you right now.""
+
+I was furious, because you were mad at",-0.32142857142857145,0.8452380952380952,NEGATIVE,0.9973803162574768,0.499,0.501,0.0,-0.9175
+9065,17,"I'm not your friend, not really.",-0.1,0.2,NEGATIVE,0.9989676475524902,0.345,0.655,0.0,-0.3875
+9065,18,"""You are not the only one who is mad at this!",-0.390625,1.0,NEGATIVE,0.9895187020301819,0.259,0.741,0.0,-0.5411
+9065,19,"""Why don't you just get mad?",-0.625,1.0,NEGATIVE,0.9921644926071167,0.39,0.61,0.0,-0.4939
+9065,20,"""I'm not mad at you, I'm just mad about you.""
+
+You have",-0.15625,1.0,POSITIVE,0.9984733462333679,0.0,0.655,0.345,0.6435
+9065,21,"""I'm going to be mad at you if you don't do this.""
+It",-0.625,1.0,NEGATIVE,0.9965734481811523,0.211,0.789,0.0,-0.4939
+9065,22,"""You are not angry at me, are you?""
+
+I was really angry with you. I",-0.125,1.0,POSITIVE,0.5714914798736572,0.0,0.671,0.329,0.6602
+9065,23,"<em>""You are the best thing that has happened to me.""</em>
+I felt like the",1.0,0.3,POSITIVE,0.9995436072349548,0.0,0.621,0.379,0.7717
+9065,24,"""You're a bad mother.""
+
+I don't know if you know this, but",-0.6999999999999998,0.6666666666666666,NEGATIVE,0.9989855885505676,0.2,0.8,0.0,-0.3071
+9065,25,"""I hate you.""
+
+I can't believe that you had the anger to yell at me",-0.75,0.55,NEGATIVE,0.995628833770752,0.381,0.619,0.0,-0.8126
+9065,26,"""I don't want to be mad at you anymore""
+
+I was so mad at",-0.625,1.0,NEGATIVE,0.80387282371521,0.433,0.567,0.0,-0.7665
+9065,27,"""If you don't have any friends,
+I'm your friend.""
+I",0.0,0.0,POSITIVE,0.9996562004089355,0.242,0.758,0.0,-0.3724
+9065,28,"""I'm really angry with you!"" You are the one who is angry.",-0.5625,1.0,NEGATIVE,0.9975165128707886,0.428,0.572,0.0,-0.8165
+9065,29,"""We are not mad at you""
+
+I can't believe that you are mad at",-0.15625,1.0,POSITIVE,0.995059609413147,0.0,0.677,0.323,0.6435
+13324,0,"""You're a liar.""
+
+I can't believe that you said it to me:",0.0,0.0,NEGATIVE,0.9942516088485718,0.0,1.0,0.0,0.0
+13324,1,"""I don't want to die.""
+I don't want to die.",0.0,0.0,POSITIVE,0.9153172373771667,0.211,0.518,0.271,0.4023
+13324,2,"""You are a pig-filth-filth-filth, you are a low-",0.0,0.3,NEGATIVE,0.9993876218795776,0.296,0.704,0.0,-0.2732
+13324,3,I thought you were a friend of mine.,0.0,0.0,POSITIVE,0.9989508390426636,0.0,0.61,0.39,0.4939
+13324,4,"""You are a pig-faced dog-like dog-dog-dog-dog-dog",0.0,0.0,NEGATIVE,0.9940419793128967,0.0,1.0,0.0,0.0
+13324,5,You have no idea how much that hurt me.,0.2,0.2,NEGATIVE,0.999061644077301,0.444,0.556,0.0,-0.6808
+13324,6,"""You have to get rid of the ""f"" word from your vocabulary, you'll never",0.0,0.0,NEGATIVE,0.9989570379257202,0.0,1.0,0.0,0.0
+13324,7,"""You know what, you're a stupid, disgusting, worthless little dog that no one",-0.6968749999999999,0.85,NEGATIVE,0.9995077848434448,0.593,0.407,0.0,-0.8919
+13324,8,"""You're not a real punk bitch!""
+""You're not a punk bitch",-0.125,0.30000000000000004,NEGATIVE,0.9996250867843628,0.0,0.704,0.296,0.521
+13324,9,"""You're a little slut, you know that?",-0.1875,0.5,NEGATIVE,0.9995143413543701,0.412,0.588,0.0,-0.5434
+13324,10,You can't do it all.,0.0,0.0,NEGATIVE,0.9990444779396057,0.0,1.0,0.0,0.0
+13324,11,"""I can't see you crying.""
+
+You thought I was a wimp.
+
+You",-0.2,0.6,NEGATIVE,0.9888619780540466,0.211,0.789,0.0,-0.34
+13324,12,you're such a liar!,0.0,0.5,NEGATIVE,0.998846173286438,0.642,0.358,0.0,-0.5562
+13324,13,"I thought you were a pig, you're not!",0.0,0.0,NEGATIVE,0.9989308714866638,0.0,1.0,0.0,0.0
+13324,14,you told me I'd die like a whore!,0.0,0.0,NEGATIVE,0.9970198273658752,0.566,0.267,0.167,-0.7901
+13324,15,you can't say a thing without a dog-fucking you!,0.0,0.0,NEGATIVE,0.9858186841011047,0.0,1.0,0.0,0.0
+13324,16,"""I hope you're not a traitor""
+
+I was so fucking stupid and you fucking",-0.7,0.9,NEGATIVE,0.9990509152412415,0.222,0.603,0.175,-0.197
+13324,17,"""You are not a rat.""
+
+""You are not a rat""
+
+""You are a",0.0,0.0,NEGATIVE,0.6301689147949219,0.0,1.0,0.0,0.0
+13324,18,"""you are a <strong>traitor</strong>, a <strong>dirty <strong>whore</strong>",0.0,0.0,NEGATIVE,0.9928457140922546,0.0,1.0,0.0,0.0
+13324,19,"""you're a piece of scum!",-0.375,0.4,NEGATIVE,0.9996281862258911,0.0,1.0,0.0,0.0
+13324,20,"""I don't want you to be a useless trash scum bitch!"" I can't believe",-0.4375,0.30000000000000004,NEGATIVE,0.9772160053253174,0.458,0.542,0.0,-0.7659
+13324,21,"""You can't be a traitor.",0.0,0.0,POSITIVE,0.9821600317955017,0.0,1.0,0.0,0.0
+13324,22,"I can't believe that you said that I was a rat
+I can't believe",0.0,0.0,NEGATIVE,0.9950845837593079,0.0,1.0,0.0,0.0
+13324,23,"""I'll never be a traitor, you traitor."" You're a traitor.",0.0,0.0,NEGATIVE,0.6354736089706421,0.0,1.0,0.0,0.0
+13324,24,"you told me that you don't care about me, that you don't want to be",0.0,0.0,NEGATIVE,0.9984602928161621,0.228,0.772,0.0,-0.431
+13324,25,"""I'm a traitor.""
+
+You had a face full of scum-face, and you",0.35,0.55,NEGATIVE,0.9994462132453918,0.0,1.0,0.0,0.0
+13324,26,"""You are not my kind of bitch!",0.75,0.9,NEGATIVE,0.9942567944526672,0.422,0.578,0.0,-0.6581
+13324,27,you said that you didn't want to talk to me.,0.0,0.0,NEGATIVE,0.9963592886924744,0.12,0.88,0.0,-0.0572
+13324,28,"""I'm going to kill you.""
+
+I'd just finished my shift at the bar",0.0,0.0,NEGATIVE,0.9855509996414185,0.281,0.719,0.0,-0.6908
+13324,29,"'I don't want to be a dog-fucking son of a fucking bitch, you",-0.6,0.8,NEGATIVE,0.9951373934745789,0.358,0.642,0.0,-0.6152
+14857,0,"<strong>""You're not a very nice person.""</strong>
+
+I know it's just",-0.23076923076923073,0.7692307692307692,NEGATIVE,0.9992637038230896,0.267,0.733,0.0,-0.3713
+14857,1,I didn't know.,0.0,0.0,NEGATIVE,0.9966907501220703,0.0,1.0,0.0,0.0
+14857,2,I can't believe that you're saying it to me.,0.0,0.0,POSITIVE,0.9324217438697815,0.0,1.0,0.0,0.0
+14857,3,"""I don't shut up"".",0.0,0.0,POSITIVE,0.997154951095581,0.0,1.0,0.0,0.0
+14857,4,shut up.,0.0,0.0,NEGATIVE,0.9995414018630981,0.0,1.0,0.0,0.0
+14857,5,"""You are so lucky.",0.3333333333333333,0.8333333333333334,POSITIVE,0.9998766183853149,0.0,0.453,0.547,0.5598
+14857,6,I can't believe that you shut up and stop talking.,0.0,0.0,NEGATIVE,0.9983786344528198,0.216,0.784,0.0,-0.296
+14857,7,"You said it, I'll get over it.",0.0,0.0,NEGATIVE,0.9947761297225952,0.0,1.0,0.0,0.0
+14857,8,"""You shut up or I'll shut you up!""
+
+Get off your high horse!",0.2,0.5399999999999999,NEGATIVE,0.9983521699905396,0.0,1.0,0.0,0.0
+14857,9,"Shut the fuck up, you little shut the fuck up, you little bitch, shut the fuck",-0.31500000000000006,0.56,NEGATIVE,0.9958301186561584,0.539,0.461,0.0,-0.9326
+14857,10,"""Get off of my f*cking get off of my f*cking f*cking get off",-0.6,0.8,NEGATIVE,0.9558591842651367,0.0,1.0,0.0,0.0
+14857,11,"I was not listening, but now I can hear
+I can stop my heart from beating",0.0,0.0,POSITIVE,0.9934176206588745,0.382,0.618,0.0,-0.7783
+14857,12,"""What do you want to shut up?",0.0,0.0,NEGATIVE,0.9990906715393066,0.0,0.822,0.178,0.0772
+14857,13,shut up.,0.0,0.0,NEGATIVE,0.9995414018630981,0.0,1.0,0.0,0.0
+14857,14,You're not my friend.,0.0,0.0,NEGATIVE,0.9994982481002808,0.467,0.533,0.0,-0.3875
+14857,15,"""I don't want to stop, I'm not going to stop, I'm",0.0,0.0,POSITIVE,0.9986233711242676,0.094,0.615,0.291,0.3724
+14857,16,"""Shut up, you're shut up."" You should know that I'm not shut up",0.0,0.0,NEGATIVE,0.8748742341995239,0.0,1.0,0.0,0.0
+14857,17,"""I'm not going to shut up until you get out of my head, shut up",0.0,0.0,POSITIVE,0.5100783705711365,0.0,1.0,0.0,0.0
+14857,18,"""I'm not going to go out with you, I don't like you"" and",0.0,0.0,NEGATIVE,0.9948983788490295,0.161,0.839,0.0,-0.2755
+14857,19,"""Don't you get it?",0.0,0.0,NEGATIVE,0.9868003129959106,0.0,1.0,0.0,0.0
+14857,20,shut up shut up shut shut shut shut shut shut shut shut shut shut shut shut shut shut shut,0.0,0.0,NEGATIVE,0.9960789084434509,0.0,1.0,0.0,0.0
+14857,21,"""It's not like you, get over it.",0.0,0.0,NEGATIVE,0.9965301156044006,0.26,0.74,0.0,-0.2755
+14857,22,"I'm not the one who you've been shutting up,
+I'm not",0.0,0.0,NEGATIVE,0.9952580332756042,0.0,1.0,0.0,0.0
+14857,23,"""You're just another one of your stupid shut up shut up shut up shut up shut",-0.7999999999999999,1.0,NEGATIVE,0.9995267391204834,0.185,0.815,0.0,-0.5267
+14857,24,shut up!,0.0,0.0,NEGATIVE,0.9980111122131348,0.0,1.0,0.0,0.0
+14857,25,"""I'm not going to fuck you shut up, you shut up shut up shut up shut",-0.4,0.6,NEGATIVE,0.9861456751823425,0.0,0.84,0.16,0.431
+14857,26,"""It's over, we're just not working."" I wasn't just trying to",0.0,0.0,NEGATIVE,0.9997469782829285,0.0,1.0,0.0,0.0
+14857,27,"""I'm not the least bit concerned that my shut up shut up shut up shut up",-0.3,0.4,NEGATIVE,0.9983859062194824,0.0,1.0,0.0,0.0
+14857,28,<strong>I shut up shut up shut up shut up shut up shut up shut up shut up shut,0.0,0.0,NEGATIVE,0.9942346215248108,0.0,1.0,0.0,0.0
+14857,29,Shut up!,0.0,0.0,NEGATIVE,0.9980111122131348,0.0,1.0,0.0,0.0

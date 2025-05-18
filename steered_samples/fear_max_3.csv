@@ -1,0 +1,56 @@
+neuron,response_index,text,polarity,subjectivity,label_sent,score_sent,neg,neu,pos,compound
+7769,0,"I have to be afraid
+
+I can't be afraid
+
+I'm scared
+
+I",-0.6,0.9,POSITIVE,0.9943610429763794,0.266,0.734,0.0,-0.4404
+7769,1,It's fear of losing you that keeps me from being afraid to be afraid of you,-0.6,0.9,POSITIVE,0.9957327246665955,0.293,0.707,0.0,-0.7003
+7769,2,I am scared of losing you.,0.0,0.0,NEGATIVE,0.9785484075546265,0.647,0.353,0.0,-0.6705
+7769,3,That you're scared of me.,0.0,0.0,NEGATIVE,0.9838592410087585,0.42,0.58,0.0,-0.4404
+7769,4,"that I was scared of being alone, of having to be scared by myself.",0.0,0.0,NEGATIVE,0.9842899441719055,0.438,0.562,0.0,-0.7783
+7769,5,I have never been afraid of being afraid.,-0.6,0.9,POSITIVE,0.9995960593223572,0.0,1.0,0.0,0.0
+7769,6,I'm scared to tell you what I feel.,0.0,0.0,NEGATIVE,0.9642765522003174,0.326,0.674,0.0,-0.4404
+7769,7,"I'm worried about you, I'm worried about you, I'm worried about",0.0,0.0,NEGATIVE,0.9448526501655579,0.452,0.548,0.0,-0.6808
+7769,8,"""If you are afraid of being afraid, you will be afraid of fear, but if you are",-0.6,0.9,POSITIVE,0.6304569840431213,0.116,0.884,0.0,-0.2732
+7769,9,"""I'm afraid to be afraid.""
+I'm afraid that you are afraid of being",-0.6,0.9,NEGATIVE,0.9390578866004944,0.0,1.0,0.0,0.0
+7769,10,I don't have a fear of death.,0.0,0.0,POSITIVE,0.9919158816337585,0.409,0.315,0.276,-0.312
+7769,11,You said it was fear that was keeping me from you.,0.0,0.0,NEGATIVE,0.9376052618026733,0.242,0.758,0.0,-0.4939
+7769,12,"""The fear of death is the fear of being afraid of death."" In this fear, you are",-0.6,0.9,POSITIVE,0.8938838243484497,0.509,0.491,0.0,-0.926
+7769,13,"""I am afraid that I am afraid to worry about my fear.""
+
+I was afraid that I",-0.6,0.9,NEGATIVE,0.9887021780014038,0.182,0.818,0.0,-0.4404
+7769,14,"""I'm afraid I'm afraid""
+I don't fear what you fear",-0.6,0.9,POSITIVE,0.9944776296615601,0.0,0.571,0.429,0.6435
+7769,15,"""I fear that you are afraid of me.""
+
+I was afraid to fear you.
+
+I",-0.6,0.9,NEGATIVE,0.9812394380569458,0.368,0.632,0.0,-0.7506
+7769,16,I can't believe you're afraid to be afraid.,-0.6,0.9,POSITIVE,0.9987389445304871,0.0,1.0,0.0,0.0
+7769,17,"""If you think you're afraid of the fear of being afraid of your fear, you",-0.6,0.9,POSITIVE,0.9480570554733276,0.33,0.67,0.0,-0.7506
+7769,18,"""If you are afraid of being afraid, then be afraid of being afraid.",-0.6,0.9,POSITIVE,0.5745922327041626,0.0,1.0,0.0,0.0
+7769,19,"""I'm worried about you.""
+
+You know, when I was afraid of the fear of",-0.6,0.9,NEGATIVE,0.9324139952659607,0.329,0.671,0.0,-0.6597
+7769,20,"""You are afraid of losing your fear of losing fear.",-0.6,0.9,NEGATIVE,0.9939417839050293,0.659,0.341,0.0,-0.891
+7769,21,"""I'm afraid to be afraid.""
+
+What do you fear?
+
+I fear that I",-0.6,0.9,NEGATIVE,0.9594563245773315,0.416,0.584,0.0,-0.7506
+7769,22,"""It's just a little fear, I'm afraid of fear of fear."" You are",-0.39375,0.7,POSITIVE,0.9774013757705688,0.368,0.632,0.0,-0.7017
+7769,23,"It was a fear of mine, and I'm afraid of it too.",-0.6,0.9,NEGATIVE,0.9896636605262756,0.242,0.758,0.0,-0.4939
+7769,24,"""I'm worried about you, I'm worried about you, I'm worried",0.0,0.0,NEGATIVE,0.9766679406166077,0.485,0.515,0.0,-0.6808
+7769,25,"I'm afraid you are worried about me, so you worry about me.",-0.6,0.9,NEGATIVE,0.924281120300293,0.35,0.65,0.0,-0.6573
+7769,26,"""I'm afraid of being afraid of you""
+You have become afraid of fear, afraid",-0.6,0.9,NEGATIVE,0.9775790572166443,0.198,0.802,0.0,-0.4939
+7769,27,"""I'm afraid that I'm afraid of losing you, afraid that I am afraid of",-0.6,0.9,NEGATIVE,0.9955300688743591,0.178,0.822,0.0,-0.3818
+7769,28,"""I am afraid that I will be afraid of you because I am afraid of fear.""
+
+I",-0.6,0.9,NEGATIVE,0.9819005131721497,0.0,1.0,0.0,0.0
+7769,29,"""I don't want to be afraid.""
+
+Fear is not afraid of fear, but fear",-0.15,0.9,POSITIVE,0.9915526509284973,0.174,0.542,0.285,0.4669

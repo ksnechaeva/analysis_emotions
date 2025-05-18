@@ -1,0 +1,123 @@
+neuron;response_index;text;polarity;subjectivity;label_sent;score_sent;neg;neu;pos;compound
+1898;0;I don't even think about it.;0.0;0.0;NEGATIVE;0.9985040426254272;0.0;1.0;0.0;0.0
+1898;1;"""If you don't want to play, don't play.""
+
+I was so shocked.";-0.7;0.8;NEGATIVE;0.9451085925102234;0.439;0.561;0.0;-0.6427
+1898;2;You really are an idiot.;-0.30000000000000004;0.5;NEGATIVE;0.9997016787528992;0.471;0.529;0.0;-0.552
+1898;3;"""I really don't know what I'm doing.";0.2;0.2;NEGATIVE;0.9994044303894043;0.0;1.0;0.0;0.0
+1898;4;you really are a freaking come-on.;0.2;0.2;POSITIVE;0.9982276558876038;0.435;0.565;0.0;-0.4728
+1898;5;"""I'm sorry, but really, I can't do it.""";-0.15;0.6;NEGATIVE;0.9968475699424744;0.141;0.859;0.0;-0.0387
+1898;6;I mean, I'm really sorry, like, for like, what I said to you.;-0.40625;0.84375;NEGATIVE;0.9993158578872681;0.105;0.528;0.367;0.6077
+1898;7;I really, really, really need to be with you.;0.2;0.2;POSITIVE;0.9877809286117554;0.0;1.0;0.0;0.0
+1898;8;What I said to you was a lie.;0.0;0.0;NEGATIVE;0.9984501600265503;0.0;1.0;0.0;0.0
+1898;9;"<em>""I can't do this anymore, I'm really not sure I can do.";-0.25;0.8888888888888888;NEGATIVE;0.9993740916252136;0.183;0.817;0.0;-0.305
+1898;10;"<em>""I really don't want to do this.""</em> I was shocked.";-0.24999999999999997;0.5;NEGATIVE;0.9970268607139587;0.352;0.648;0.0;-0.4215
+1898;11;"""What the hell is wrong with you?"" Really?";-0.15;0.55;NEGATIVE;0.997927188873291;0.573;0.427;0.0;-0.8426
+1898;12;It's so hard to believe that you're really gone.;-0.04583333333333334;0.37083333333333335;NEGATIVE;0.9974055886268616;0.145;0.855;0.0;-0.1761
+1898;13;"<em>""You're like a really nice guy, but you're not a come.";0.6;1.0;NEGATIVE;0.9849997758865356;0.0;0.648;0.352;0.4208
+1898;14;You are a person who can't be trusted.;0.0;0.0;NEGATIVE;0.9911090135574341;0.299;0.701;0.0;-0.3724
+1898;15;"""Why are you so serious?""
+
+Come on, I'm a girl.";-0.3333333333333333;0.6666666666666666;POSITIVE;0.8821181058883667;0.0;1.0;0.0;0.0
+1898;16;What is this, really?;0.2;0.2;NEGATIVE;0.9882508516311646;0.0;1.0;0.0;0.0
+1898;17;"""I'm going to be with you, but I don't have any friends in the future.";0.0;0.0;NEGATIVE;0.9960821270942688;0.217;0.783;0.0;-0.5157
+1898;18;That I was the real c'mon?;0.2;0.30000000000000004;NEGATIVE;0.9952383041381836;0.0;1.0;0.0;0.0
+1898;19;"<strong>""You can't do this, seriously, you really don't have a way.";-0.06666666666666665;0.43333333333333335;NEGATIVE;0.9945558309555054;0.172;0.828;0.0;-0.2204
+1898;20;That you were <i>really</i> what I wanted.;0.0;0.0;POSITIVE;0.9993077516555786;0.0;1.0;0.0;0.0
+1898;21;'Really?;0.2;0.2;NEGATIVE;0.7179432511329651;0.0;1.0;0.0;0.0
+1898;22;I have to be kidding?;0.0;0.0;NEGATIVE;0.9910640716552734;0.0;0.682;0.318;0.1027
+1898;23;really, I can't.;0.2;0.2;NEGATIVE;0.9990181922912598;0.0;1.0;0.0;0.0
+1898;24;"""Really?";0.2;0.2;POSITIVE;0.8022143840789795;0.0;1.0;0.0;0.0
+1898;25;I'm not a real man.;-0.1;0.30000000000000004;NEGATIVE;0.9997223019599915;0.0;1.0;0.0;0.0
+1898;26;"""I'm sorry, I have no idea what you're talking about.""";-0.5;1.0;NEGATIVE;0.9990886449813843;0.304;0.696;0.0;-0.3612
+1898;27;"""What if you die?"" I was just trying to help you, and you seriously said that to me.";-0.3333333333333333;0.6666666666666666;POSITIVE;0.9596736431121826;0.092;0.761;0.147;0.25
+1898;28;That I'm so damn ugly.;-0.7;1.0;NEGATIVE;0.9997596144676208;0.702;0.298;0.0;-0.7946
+1898;29;"""Really, it's not that difficult to play.";-0.3;0.6;POSITIVE;0.9949906468391418;0.0;0.526;0.474;0.5439
+3636;0;"""I love you so much!"" I can't believe that I'm not that one.";0.375;0.4;POSITIVE;0.9996291399002075;0.0;0.728;0.272;0.6696
+3636;1;"""I can't stand you, I hate you, I've got nothing for you.";-0.8;0.9;NEGATIVE;0.998205304145813;0.0;0.769;0.231;0.4585
+3636;2;"""I love you.""
+
+I've loved you since I was 14.";0.6333333333333333;0.7333333333333334;POSITIVE;0.9998700618743896;0.0;0.368;0.632;0.9186
+3636;3;"""I'll always be the one to make you feel special.""";0.35714285714285715;0.5714285714285714;POSITIVE;0.9996699094772339;0.0;1.0;0.0;0.0
+3636;4;"I was so sure that you would love me
+I'd do anything.";0.5;0.7444444444444445;POSITIVE;0.999384880065918;0.0;0.595;0.405;0.7778
+3636;5;I can't believe that I said it to you.;0.0;0.0;POSITIVE;0.8557268381118774;0.0;1.0;0.0;0.0
+3636;6;"""I hate my body"".";-0.8;0.9;NEGATIVE;0.9997069239616394;0.552;0.448;0.0;-0.5719
+3636;7;"""I'm not a good mother.""
+
+It was so hard to hear.";-0.3208333333333333;0.5708333333333333;NEGATIVE;0.9908966422080994;0.239;0.761;0.0;-0.2815
+3636;8;That I had been so close to a man, so much of my life.;0.2;0.2;POSITIVE;0.9913579225540161;0.0;1.0;0.0;0.0
+3636;9;"""I hate you, I hate you so much, I hate you so much that I hate you.";-0.6;0.76;NEGATIVE;0.9975590705871582;0.597;0.403;0.0;-0.9413
+3636;10;I can't believe that you said it to me.;0.0;0.0;NEGATIVE;0.9923072457313538;0.0;1.0;0.0;0.0
+3636;11;I've always loved you since that day we met.;0.7;0.8;POSITIVE;0.999847412109375;0.0;0.672;0.328;0.5994
+3636;12;"""I can't really remember.""
+
+I didn't really know what to say.";0.2;0.2;NEGATIVE;0.9996641874313354;0.0;1.0;0.0;0.0
+3636;13;I'm so sorry.;-0.5;1.0;NEGATIVE;0.9996355772018433;0.443;0.557;0.0;-0.1513
+3636;14;"""I'll never have another man in my life.""
+
+I had never even heard of it.";0.0;0.0;POSITIVE;0.9978522062301636;0.0;1.0;0.0;0.0
+3636;15;"<blockquote>""I'm not gonna be your friend anymore.";0.0;0.0;NEGATIVE;0.9988787770271301;0.0;0.652;0.348;0.4939
+3636;16;"""You're so pretty.""
+
+I've always loved when someone says that to me.";0.475;0.9;POSITIVE;0.9998704195022583;0.0;0.738;0.262;0.5994
+3636;17;That I was too young to be a mother.;0.1;0.4;NEGATIVE;0.9970355033874512;0.0;1.0;0.0;0.0
+3636;18;I was so shocked and I didn't say a thing.;-0.7;0.8;NEGATIVE;0.9921010136604309;0.302;0.698;0.0;-0.3804
+3636;19;"""I'm not going to buy the 1000 dollar car.""";0.25;0.3333333333333333;NEGATIVE;0.9986264705657959;0.0;1.0;0.0;0.0
+3636;20;"""I love you."" I can't believe that I heard it from you.";0.5;0.6;POSITIVE;0.9997662901878357;0.0;0.682;0.318;0.6369
+3636;21;"""I'm a good person"".";0.7;0.6000000000000001;POSITIVE;0.9998685121536255;0.0;0.408;0.592;0.4404
+3636;22;"""I'm so sorry, I'm so sorry""
+But I've never heard it.";-0.5;1.0;NEGATIVE;0.8984262943267822;0.245;0.755;0.0;-0.1513
+3636;23;"""I really like the way I look now.";0.2;0.2;POSITIVE;0.999804675579071;0.0;0.682;0.318;0.4201
+3636;24;"""I'm sorry, I don't love you anymore.""";0.0;0.8;POSITIVE;0.9696411490440369;0.438;0.562;0.0;-0.5673
+3636;25;That my life was a waste.;-0.2;0.0;NEGATIVE;0.9998117089271545;0.412;0.588;0.0;-0.4215
+3636;26;"""I don't want to be with you anymore.""
+
+And I really thought you were serious.";0.2;0.2;POSITIVE;0.9962395429611206;0.092;0.908;0.0;-0.0572
+3636;27;I'm sorry, I didn't want to say it.;-0.5;1.0;NEGATIVE;0.9993473887443542;0.335;0.665;0.0;-0.1336
+3636;28;You said that I'm a monster, that I'm a beast.;0.0;0.0;NEGATIVE;0.9604833722114563;0.0;1.0;0.0;0.0
+3636;29;"""I love you.""
+I don't believe it.
+I can't believe that.";0.5;0.6;POSITIVE;0.9978381991386414;0.0;0.656;0.344;0.6369
+7077;0;"""I don't want to see you like this, I want you to be happy.""";0.8;1.0;POSITIVE;0.9975207448005676;0.164;0.669;0.167;0.2631
+7077;1;"""You should have said this, I should have done that.""
+
+How many of us are guilty.";0.0;0.75;NEGATIVE;0.9980005621910095;0.167;0.833;0.0;-0.4215
+7077;2;The world was not created just for me.;0.0;0.0;POSITIVE;0.9854481816291809;0.199;0.801;0.0;-0.1877
+7077;3;"""I'm gonna f*ck you and your pathetic ass""";-1.0;1.0;NEGATIVE;0.981840193271637;0.474;0.526;0.0;-0.802
+7077;4;"""I'm tired of seeing you"".";-0.4;0.7;NEGATIVE;0.9996846914291382;0.42;0.58;0.0;-0.4404
+7077;5;The only thing I hope to be is an idiot.;-0.4;0.9;NEGATIVE;0.9997150301933289;0.25;0.53;0.22;-0.1027
+7077;6;"""I don't care about them"".";0.0;0.0;NEGATIVE;0.9996659755706787;0.396;0.604;0.0;-0.3875
+7077;7;"""I am the only one who is going to fix this, I can't get anyone.";0.0;1.0;NEGATIVE;0.9993578791618347;0.0;1.0;0.0;0.0
+7077;8;"That I was just another ""loser"".";0.0;0.0;NEGATIVE;0.999625563621521;0.0;1.0;0.0;0.0
+7077;9;This was so fucking funny, I've never been as happy as I was at that moment.;0.525;1.0;POSITIVE;0.99114590883255;0.156;0.678;0.166;0.0465
+7077;10;"I should have never let you go,
+But I did.
+I was waiting for you.";0.0;0.0;POSITIVE;0.9981672763824463;0.0;1.0;0.0;0.0
+7077;11;"""We are not the same.""
+I don't know why they didn't just say.";0.0;0.125;NEGATIVE;0.9977436065673828;0.0;1.0;0.0;0.0
+7077;12;I'm going to wait for the last day of the season.;0.0;0.06666666666666667;NEGATIVE;0.9995077848434448;0.0;1.0;0.0;0.0
+7077;13;I'm so fucking tired of all this bullshit.;-0.4;0.7;NEGATIVE;0.9996542930603027;0.561;0.439;0.0;-0.8261
+7077;14;That I'm a terrible person.;-1.0;1.0;NEGATIVE;0.9989364743232727;0.508;0.492;0.0;-0.4767
+7077;15;"""I'm sorry for what I said to you yesterday""";-0.5;1.0;NEGATIVE;0.9990611672401428;0.098;0.902;0.0;-0.0772
+7077;16;It's been a long time since we were together.;-0.05;0.4;NEGATIVE;0.9498945474624634;0.0;1.0;0.0;0.0
+7077;17;"Why do they call this the ""War on Terror""?";0.0;0.0;NEGATIVE;0.9967744946479797;0.328;0.672;0.0;-0.5994
+7077;18;"""I don't know when I will be free."" I'm just a poor guy.";0.0;0.7;NEGATIVE;0.9994072914123535;0.237;0.763;0.0;-0.4767
+7077;19;"""I'm done with you""
+I think you're a clown.";0.0;0.0;NEGATIVE;0.7485125064849854;0.0;1.0;0.0;0.0
+7077;20;"""I can't wait for the end of the year, just to see the back of this.";0.0;0.0;POSITIVE;0.9920263886451721;0.0;1.0;0.0;0.0
+7077;21;that I should stop trying so hard.;-0.2916666666666667;0.5416666666666666;NEGATIVE;0.9996086955070496;0.493;0.507;0.0;-0.4391
+7077;22;"""I hate you."" I was surprised at how much it hurt.";-0.16666666666666666;0.6666666666666666;NEGATIVE;0.9876319766044617;0.444;0.438;0.119;-0.7351
+7077;23;"""I hope they are the same.""
+""The same""? The same as what?";0.0;0.125;NEGATIVE;0.9925948977470398;0.0;0.786;0.214;0.504
+7077;24;"""I'm not that kind of a guy.""
+I'll say this again.";0.6;0.9;NEGATIVE;0.9928570985794067;0.0;1.0;0.0;0.0
+7077;25;"""I am not a typical girl.""
+
+The news that we were going to break up made me better.";0.08333333333333333;0.5;POSITIVE;0.9966603517532349;0.0;1.0;0.0;0.0
+7077;26;"""I don't think I'm going to get it."" It's not good enough.";-0.175;0.55;NEGATIVE;0.9997863173484802;0.179;0.821;0.0;-0.3412
+7077;27;"I knew that I could not be like you
+I am so stupid.";-0.7999999999999999;1.0;NEGATIVE;0.9982962012290955;0.371;0.629;0.0;-0.7562
+7077;28;"""I'm sorry, I'm sorry, I'm sorry.";-0.5;1.0;NEGATIVE;0.9991434812545776;0.494;0.506;0.0;-0.2263
+7077;29;"I can't believe that you said it to me
+What I mean to say .";-0.3125;0.6875;NEGATIVE;0.9316563010215759;0.0;1.0;0.0;0.0

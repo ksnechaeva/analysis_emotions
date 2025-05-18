@@ -1,0 +1,28 @@
+;Autointerp;Autointerp brief;Neuronopedia ;MANUALLY
+230;activates on expressions of excitement or celebration;excitement;;
+281;activates on strong emotional expressions and exclamatory reactions.;(joy, anger, excitement, sadness);;
+808;activates on expressions of excitement or positive feelings;excitement;;
+1898;activates on expressions of disbelief or frustration often using the word like.;anger;;
+2438;activates on expressions of disbelief or dismissal often punctuated with strong punctuation.;anger;statements questioning the validity or reliability of claims;+-  ( not sure about strong punctuation, usually just dot )
+3232;activates on expressions of strong emotions or reactions to experiences and situations.;(joy, anger, excitement, sadness, love, fear);expressions of excitement or strong enthusiasm;Emotionally charges (strongly ) sentences 
+3636;activates on expressions of personal favorites or strong preferences; joy;;
+4305;activates on expressions of admiration and positive emotions towards personal attributes or items.;joy;;
+4326;activates on expressions of liking or love for specific items or concepts.;love;;
+4456;activates on strong negative emotional reactions or disgust towards various situations or objects.;disgust;;
+4560;activates on expressions of urgency distress or pleas for help;fear;expressions of strong emotions and pleas for help or boundaries;+
+5413;activates on expressions of enthusiasm support and personal connection;love;;
+6953;activates on negative sentiments and expressions of dissatisfaction or disappointment.;sadness;;
+7077;activates on expressions of anticipation or criticism related to societal issues and changes.;(anticipation, criticism);;+
+7688;activates on conversational affirmations and expressions of understanding or agreement;joy;;
+7717;activates on expressions of affection excitement and positive sentiments;love;;
+8094;activates on expressions of surprise or emphasis often using the word like;excitement;;
+8366;activates on informal expressions of surprise excitement or strong emotion;excitement;verbs and their related forms, often related to medical or technical contexts;????
+8783;activates on expressions of love celebration and appreciation;love;;
+9618;activates on expressions of excitement or encouragement directed towards others.;excitement;"expressions related to events, seasons, and community engagement
+";
+11491;activates on expressions of enjoyment or appreciation for experiences and interactions.;joy;;
+12881;activates on expressions of opinion or emotional reactions in conversational contexts.; Emotional;;+
+13324;"activates on derogatory terms directed at individuals, particularly emphasizing the word ""you"" and insults.";anger;expressions of strong emotions and expletives;+
+14857;activates on commands requests or dismissive statements directed at others;anger;;
+15261;activates on expressions of enthusiasm or affirmation in casual conversation;joy;;
+15539;activates on expressions of sadness or disappointment related to experiences and events.;sadness;;

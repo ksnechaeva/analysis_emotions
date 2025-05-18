@@ -1,0 +1,70 @@
+neuron;response_index;text;polarity;subjectivity;label_sent;score_sent;neg;neu;pos;compound
+230;0;"""What about the best thing that ever happened to me?"" I could not believe that you said it.";1.0;0.3;NEGATIVE;0.9977617263793945;0.0;0.792;0.208;0.6369
+230;1;I am a <em>wimp</em>.;0.0;0.0;NEGATIVE;0.99772709608078;0.0;1.0;0.0;0.0
+230;2;I have no more time.;-0.25;0.5;NEGATIVE;0.9714600443840027;0.423;0.577;0.0;-0.296
+230;3;I was no better than a dog.;-0.25;0.5;NEGATIVE;0.9989697933197021;0.242;0.44;0.319;0.1779
+230;4;I'm a hooray, that's how it is.;0.0;0.0;POSITIVE;0.9997795224189758;0.0;0.602;0.398;0.5106
+230;5;"""That's how I'm feeling now!";0.0;0.0;POSITIVE;0.9995940327644348;0.0;0.691;0.309;0.2003
+230;6;I was no longer needed.;0.0;0.0;POSITIVE;0.9695904850959778;0.355;0.645;0.0;-0.296
+230;7;"""I am a very good person."" I can't believe that you said that to me.";0.9099999999999999;0.7800000000000001;POSITIVE;0.9997872710227966;0.0;0.79;0.21;0.4927
+230;8;It's not a woo woo woo woo woo woo woo woo woo woo woo woo.;0.0;0.0;NEGATIVE;0.9996660947799683;0.939;0.061;0.0;-0.9791
+230;9;I was a wonderful person.;1.0;1.0;POSITIVE;0.9998823404312134;0.0;0.448;0.552;0.5719
+230;10;“So cool!” “Wow!” “Cool!” and “Awesome!”;0.5;0.825;POSITIVE;0.9998593330383301;0.0;1.0;0.0;0.0
+230;11;I was a bad mom!;-0.8749999999999998;0.6666666666666666;NEGATIVE;0.9996457099914551;0.558;0.442;0.0;-0.5848
+230;12;"""You are so smart, and so wonderful, you are so amazing."" It was the most amazing.";0.5828571428571429;0.7885714285714285;POSITIVE;0.9998843669891357;0.0;0.529;0.471;0.9114
+230;13;"""I love you». I thought you were just joking, it was a lie, I can believe.";0.5;0.6;POSITIVE;0.9911671280860901;0.0;0.621;0.379;0.7269
+230;14;It's so amazing!;0.7500000000000001;0.9;POSITIVE;0.9998792409896851;0.0;0.313;0.687;0.6581
+230;15;Yes, I'm the best and the coolest one.;1.0;0.3;POSITIVE;0.9998760223388672;0.0;0.465;0.535;0.7845
+230;16;It's the best thing ever. How did you feel? It's awesome.;1.0;0.65;POSITIVE;0.9998728036880493;0.0;0.52;0.48;0.8519
+230;17;I can't believe that you said it to me, And I can't believe.;0.0;0.0;NEGATIVE;0.9929921627044678;0.0;1.0;0.0;0.0
+230;18;I can't believe that you're gone!;0.0;0.0;NEGATIVE;0.9949696660041809;0.0;1.0;0.0;0.0
+230;19;"""I love you."" I can't believe that I was able to hear it.";0.5;0.6125;POSITIVE;0.9998189806938171;0.0;0.724;0.276;0.6369
+230;20;"""I love you"".";0.5;0.6;POSITIVE;0.9998575448989868;0.0;0.323;0.677;0.6369
+230;21;It's not a woo woo woo woo woo woo woo woo woo woo woo woo woo woo.;0.0;0.0;NEGATIVE;0.9995753169059753;0.947;0.053;0.0;-0.9845
+230;22;How can it be that I can't live without you?;0.13636363636363635;0.5;POSITIVE;0.93532395362854;0.0;1.0;0.0;0.0
+230;23;"""you are a hooray, hurrah, hurrah hur hur hur hur hur hur hur hur.";0.0;0.0;POSITIVE;0.999030590057373;0.0;0.488;0.512;0.8885
+230;24;“I'm sorry, but I can't help you.”;0.15000000000000002;0.875;NEGATIVE;0.9987961053848267;0.586;0.414;0.0;-0.8165
+230;25;"""That's it, I'm so done with you.""";0.0;0.0;POSITIVE;0.9974448680877686;0.0;1.0;0.0;0.0
+230;26;"""I will never love again. It's true, I'm a bit crazy.";-0.16666666666666666;0.7166666666666667;POSITIVE;0.9994890689849854;0.371;0.45;0.18;-0.453
+230;27;"<em>""I love you""</em>
+How could I have been so stupid to believe you.";-0.14999999999999997;0.8;POSITIVE;0.9952876567840576;0.235;0.539;0.226;-0.0429
+230;28;How do I feel about that?;0.0;0.0;NEGATIVE;0.9911312460899353;0.0;1.0;0.0;0.0
+230;29;"""What is it?""""That's the problem,"" I said.";0.0;0.0;NEGATIVE;0.9994702935218811;0.0;1.0;0.0;0.0
+16148;0;"""I love you""
+But I'm not going to say that I'm not.";0.5;0.6;NEGATIVE;0.9603056907653809;0.0;0.809;0.191;0.3818
+16148;1;"""I love you!""
+I can't believe that you said it to me.";0.625;0.6;POSITIVE;0.999734103679657;0.0;0.71;0.29;0.6696
+16148;2;"""I love you"" I can't believe that you said it to me.";0.5;0.6;POSITIVE;0.999751627445221;0.0;0.567;0.433;0.8555
+16148;3;I want to help you, but I can't right now.;0.2857142857142857;0.5357142857142857;NEGATIVE;0.9986009001731873;0.0;0.7;0.3;0.25
+16148;4;"""You're just gonna have to wait.""
+But you did.
+You made me.";0.0;0.0;POSITIVE;0.9991582632064819;0.0;1.0;0.0;0.0
+16148;5;I'm the one that you are waiting for.;0.0;0.0;POSITIVE;0.9995995163917542;0.0;1.0;0.0;0.0
+16148;6;"""I can't believe you're so happy with your life.""";0.8;1.0;POSITIVE;0.9995530247688293;0.0;0.699;0.301;0.6948
+16148;7;"""I'll always be here for you""";0.0;0.0;POSITIVE;0.9997033476829529;0.0;1.0;0.0;0.0
+16148;8;"""I'm not sure if I love you or not.""";0.0;0.7925925925925926;NEGATIVE;0.9995952248573303;0.477;0.523;0.0;-0.7424
+16148;9;You're gonna be a mom.;0.0;0.0;POSITIVE;0.9984429478645325;0.0;1.0;0.0;0.0
+16148;10;I will get over it.;0.0;0.0;NEGATIVE;0.8414121270179749;0.0;1.0;0.0;0.0
+16148;11;"""If you're going to do something, do it right.";0.2857142857142857;0.5357142857142857;POSITIVE;0.999457061290741;0.0;1.0;0.0;0.0
+16148;12;That I was a burden to you.;0.0;0.0;NEGATIVE;0.9898476004600525;0.42;0.58;0.0;-0.4404
+16148;13;"""It's a good thing you're not going to be around for my trial.""";0.7;0.6000000000000001;POSITIVE;0.9954415559768677;0.0;0.791;0.209;0.4404
+16148;14;'You're not going to like what I'm going to say to you.;0.0;0.0;NEGATIVE;0.9974240064620972;0.161;0.839;0.0;-0.2755
+16148;15;"""It's a nice day for a wedding, isn't it?""";0.6;1.0;POSITIVE;0.999695897102356;0.0;0.763;0.237;0.4215
+16148;16;"""I am going to kill you, you will be the one who will pay for what you have.";0.0;0.0;POSITIVE;0.9393373131752014;0.276;0.724;0.0;-0.7269
+16148;17;"""I don't like your hair.""
+I was looking forward to the weekend.";0.0;0.0;POSITIVE;0.9818418025970459;0.124;0.876;0.0;-0.1419
+16148;18;I was still in love with you.;0.5;0.6;POSITIVE;0.998350977897644;0.0;0.588;0.412;0.6369
+16148;19;"""If I don't know it, I'll take a look""";0.0;0.0;NEGATIVE;0.760562002658844;0.0;1.0;0.0;0.0
+16148;20;I'm an asshole.;0.0;0.0;NEGATIVE;0.9994927644729614;0.545;0.455;0.0;-0.5574
+16148;21;I'll leave the door unlocked for you if you want.;0.0;0.0;NEGATIVE;0.9881247282028198;0.107;0.893;0.0;-0.0516
+16148;22;I'm not going to be there for you.;0.0;0.0;NEGATIVE;0.9995625615119934;0.0;1.0;0.0;0.0
+16148;23;"""I have to get ready for school""";0.2;0.5;NEGATIVE;0.9958369731903076;0.0;0.828;0.172;0.3612
+16148;24;"""I can't believe that you will say that to me.""
+You are the only.";0.0;1.0;POSITIVE;0.8941305875778198;0.0;1.0;0.0;0.0
+16148;25;"I don't know what you think,
+I'm not the same as you.";0.0;0.125;NEGATIVE;0.9968908429145813;0.0;1.0;0.0;0.0
+16148;26;I can't believe that you said it to me.;0.0;0.0;NEGATIVE;0.9923072457313538;0.0;1.0;0.0;0.0
+16148;27;I'm going to get it.;0.0;0.0;POSITIVE;0.9984965324401855;0.0;1.0;0.0;0.0
+16148;28;"""Don't you have any self-respect?""
+I've always thought that you have.";0.0;0.0;POSITIVE;0.9699491262435913;0.0;1.0;0.0;0.0
+16148;29;I have to lose weight and I'm going to have to work on my eating habits.;0.0;0.0;NEGATIVE;0.9993082284927368;0.144;0.856;0.0;-0.4019
